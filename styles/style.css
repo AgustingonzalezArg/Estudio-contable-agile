@@ -24,6 +24,11 @@ html {
     font-size: 15px;
 }
 
+.container-nav {
+    height: 8rem;
+    background-color: var(--grey);
+}
+
 @media (max-width: 1200px) {
     html {
       font-size: 14px; /* 1rem = 15px */

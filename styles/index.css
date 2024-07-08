@@ -126,7 +126,7 @@ h3 {
 
 .our-services ul {
     list-style-type: square; 
-}
+} 
 
 .our-services li {
     margin-bottom: 8px;
@@ -144,6 +144,16 @@ h3 {
     margin-top: 20px;
     transition: background-color .1s ease-in;
     text-align: center;
+}
+
+.container-btn-our-all-services {
+    text-align: center;
+    margin: 1.5rem .5rem 2.5rem .5rem;
+}
+
+.container-btn-our-all-services a {
+    padding: .85rem;
+    font-size: 1.15rem;
 }
 
 /* style monotributo */
