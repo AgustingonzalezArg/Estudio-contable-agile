@@ -1,0 +1,482 @@
+/* General */
+
+h2 {
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 25px;
+}
+
+h3 {
+    font-size: 1.4rem;
+    text-align: center;
+    margin: 10px 0;
+    color: var(--light-black);
+}
+
+/* Style header */
+
+.header {
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(var(--transparent-black), var(--transparent-black)), url(../assets/imgs/cordobaParqueSarmiento.webp);
+    background-repeat: no-repeat;
+    background-position:left;
+    background-size: cover;
+    color: var(--white);
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    
+}
+
+.header__ubi {
+    font-size: 1rem;
+}
+
+.header p {
+    font-size: 1.1rem;
+    line-height: 1.25;
+    margin: .3rem 0px;
+    max-width: 80%;
+}
+
+@media (max-width: 768px), (max-width: 576px)  {
+    .header p {
+        max-width: 100%;
+    }
+  }
+
+.header h1 {
+    font-size: 2.5rem;
+    margin: .2rem 0;
+}
+
+.header a {
+    text-decoration: none;
+    background-color: var(--blue);
+    padding: .6rem;
+    color: var(--white);
+    font-size: 1.2rem;
+    border-radius: 7px;
+    margin-top: 20px;
+    transition: background-color .1s ease-in;
+}
+
+
+.header a:hover {
+    background-color: var(--light-blue);
+}
+
+
+/* Style our-services */
+
+.our-services {
+    background: linear-gradient(var(--light-grey), var(--grey));
+    padding-bottom: 45px;
+}
+
+.our-services p {
+    font-size: 1rem;
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    color: var(--white-bold);
+}
+
+.our-services hr {
+    background-color: var(--white);
+    border: none;
+    height: 4px;
+    background-color: var(--blue);
+    margin: 15px auto;
+    width: 20%;
+    border-radius: 5px;
+}
+
+.our-services__services {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 85%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+.our-services article {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 1px 1px 15px var(--transparent-black);
+    flex-basis: 16.5rem;
+    flex-grow: 1;
+    padding: 1.8rem;
+    border-radius: 10px;
+    background-color: var(--white-bold);
+}
+
+.our-services svg {
+    width: 3rem;
+    height: 3rem;
+    fill: var(--blue);
+}
+
+.our-services ul {
+    list-style-type: square; 
+}
+
+.our-services li {
+    margin-bottom: 8px;
+    font-size: .9rem;
+    letter-spacing: .5px;
+}
+
+.our-services a {
+    text-decoration: none;
+    background-color: var(--blue);
+    padding: .6rem;
+    color: var(--white);
+    font-size: 1rem;
+    border-radius: 7px;
+    margin-top: 20px;
+    transition: background-color .1s ease-in;
+    text-align: center;
+}
+
+/* style monotributo */
+
+.monotributo {
+    background: linear-gradient(var(--grey), var(--grey), var(--light-grey));
+}
+
+.responsable-inscripto {
+    background: linear-gradient( var(--light-grey),  var(--light-grey), var(--white));
+}
+
+.monotributo, .responsable-inscripto {
+    padding-bottom: 25px;
+}
+
+.monotributo__container, .responsable-inscripto__container {
+    background-color: var(--blue);
+    width: 95%;
+    max-width: 650px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 2rem;
+    box-shadow: 1px 1px 10px var(--light-black);
+}
+
+.monotributo h2, .responsable-inscripto h2 {
+    color: var(--white-bold);
+    padding: 0 0 15px ;
+}
+
+.monotributo p, .responsable-inscripto p {
+    font-size: .9rem;
+    padding-bottom: 15px;
+    color: var(--white);
+}
+
+.monotributo ul, .responsable-inscripto ul{
+ list-style-type: none;
+ 
+}
+
+.monotributo li, .responsable-inscripto li {
+    padding-left: 18px;
+    padding-bottom: 10px;
+    color: var(--white-bold);
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.monotributo li>svg, .responsable-inscripto li>svg {
+    width: 8px;
+}
+
+.clic-here {
+    text-decoration:underline;
+    color: var(--white-bold);
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.container-wsp {
+    display: flex;
+    justify-content: center ;
+}
+
+.wsp {
+    text-decoration: none;
+    background-color: var(--white);
+    padding: .6rem;
+    color: var(--blue);
+    font-size: 1rem;
+    font-weight: 800;
+    border-radius: 7px;
+    margin-top: 20px;
+    transition: background-color .1s ease-in;
+    text-align: center;
+}
+
+
+/* style other-services */
+
+.other-services {
+    background-color: var(--white);
+}
+
+.other-services__container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    width: 80%;
+    margin: auto;
+    padding: 25px 0;
+
+}
+
+.other-services__container article {
+    flex-grow: 1;
+    flex-basis: 16rem;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 1px 1px 10px var(--light-black);
+    overflow: hidden;
+    background-color: var(--dark-blue);
+}
+
+.other-services__container-img {
+    min-height: 10rem;
+    overflow: hidden;
+    position: relative;
+}
+
+.other-services__container img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+}
+
+.other-services h3 {
+    color: var(--white);
+}
+
+.other-services p {
+    font-size: .9rem;
+    color: var(--white);
+    margin: 10px 20px;
+    text-align: center;
+}
+
+.container-a {
+    display: flex;
+    justify-content: center ;
+    margin: 10%;
+}
+
+.other-services a {
+    text-decoration: none;
+    background-color: var(--white);
+    padding: .6rem;
+    color: var(--dark-blue);
+    font-size: .95rem;
+    font-weight: 800;
+    border-radius: 7px;
+    margin-top: 20px;
+    transition: background-color .1s ease-in;
+    text-align: center;
+}
+
+.other-services a:hover {
+    background-color: var(--light-grey);
+}
+
+
+/* style finally-content */
+
+.finally-content {
+    background-color: var(--dark-blue);
+}
+
+.finally-content__why-firm, .finally-content__impositive-rules{
+    width: 100%;
+    display: flex;
+    gap:25px;
+    margin: auto;
+    padding: 25px 30px;
+    color: var(--white);
+}
+
+.why-firm__container-img, .impositive-rules__container-img {
+    width: 100%;
+    height: 15rem;
+    overflow: hidden;
+    position: relative;
+}
+
+.why-firm__container-img img, .impositive-rules__container-img img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+}
+
+.why-firm__container-text p, .finally-content__container-text p{
+    padding: 10px;
+}
+
+@media (max-width: 900px) {
+    .why-firm__container-img, .impositive-rules__container-img {
+        display: none;
+    }
+}
+
+.get-advice-now {
+    text-decoration: none;
+    background-color: var(--white);
+    padding: .8rem;
+    color: var(--dark-blue);
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 7px;
+    margin-top: 20px;
+    transition: background-color, transform .1s ease-in;
+}
+
+.get-advice-now:hover {
+    background-color: var(--white-bold);
+    transform: scale(1.1);
+}
+
+.container-get-advice-now {
+    display: flex;
+    justify-content: center;
+    padding: 1.5rem;
+}
+
+
+
+/* Faq's */
+
+/* Estilos generales para la sección de FAQs */
+.FAQs {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Estilo para el título principal de la sección */
+.FAQs h2 {
+    text-align: center;
+    color: var(--dark-blue);
+    margin-bottom: 2rem;
+}
+
+/* Estilos para cada elemento de detalles */
+.faqs {
+    margin-bottom: 1rem;
+    background-color: var(--dark-blue);
+    border-radius: 5px;
+    padding: 1.3rem;
+    box-shadow: 1px 1px 5px var(--grey);
+    color: var(--white-bold);
+}
+
+/* Estilos para el resumen dentro de los detalles */
+.faqs h3 {
+    font-weight: bold;
+    cursor: pointer;
+    list-style: none;
+    padding: 0.5rem 0;
+    color: var(--white-bold);
+    font-size: 1.3rem;
+}
+
+/* Estilos para los párrafos dentro de los detalles */
+.faqs p {
+    margin-top: 0.5rem;
+    padding-left: 1rem;
+    color: var(--white);
+    transition: all 0.3s ease-in-out;
+    font-size: .95rem;
+}
+
+/* Estilos para detalles abiertos */
+.faqs[open] p {
+    padding-left: 1rem;
+}
+
+/* Transiciones suaves */
+.faqs[open] summary {
+    color: var(--light-blue);
+}
+
+
+/* style form */
+
+.contact {
+    background: var(--dark-blue);
+    padding: 20px;
+}
+
+.contact p {
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 15px;
+    color: var(--white);
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: var(--white);
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 0.5rem 1rem;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .contact .get-advice-now {
+    background-color: var(--green-wsp);
+    color: var(--white-bold);
+  }
+
+

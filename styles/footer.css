@@ -1,0 +1,28 @@
+footer {
+    min-height: 25vh;
+    width: 100%;
+    background-color: var(--black);
+    text-align: center;
+}
+
+footer p {
+    padding: 1rem ;
+    color: var(--white-bold);
+}
+
+.nav-footer {
+  padding: 3rem 0 3rem 5rem;
+}
+
+.nav-footer ul {
+   display: flex;
+   flex-direction: column;
+   justify-content: start;
+   align-items: start;
+   gap: 1rem;
+   list-style-type: none;
+}
+
+.nav-footer a {
+    color: var(--white);
+}

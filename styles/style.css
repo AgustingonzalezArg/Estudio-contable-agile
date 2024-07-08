@@ -1,0 +1,49 @@
+:root {
+    --black: #131313;
+    --light-black:#292929;
+    --transparent-black: #111111ce;
+    --white-bold: #ececec;
+    --white: #d4d4d4;
+    --light-grey: #a7a7a7;
+    --grey: #666666;
+    --blue: #192f94;
+    --light-blue: #2444d6;
+    --dark-blue: #10223d;
+    --green-wsp: #44c21d;
+}
+
+* {
+    border: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Merriweather", serif;
+}
+
+html {
+    font-size: 15px;
+}
+
+@media (max-width: 1200px) {
+    html {
+      font-size: 14px; /* 1rem = 15px */
+    }
+  }
+  
+  @media (max-width: 992px) {
+    html {
+      font-size: 14px; /* 1rem = 14px */
+    }
+  }
+  
+  @media (max-width: 768px) {
+    html {
+      font-size: 13px; /* 1rem = 13px */
+    }
+  }
+  
+  @media (max-width: 576px) {
+    html {
+      font-size: 13px; /* 1rem = 12px */
+    }
+  }
