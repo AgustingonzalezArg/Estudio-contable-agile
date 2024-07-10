@@ -1,0 +1,169 @@
+html {
+    background-color: var(--white);
+}
+
+
+main {
+    width: 75%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+h1 {
+    font-size: 2.5rem;
+    margin: 1.5rem 0;
+    color: var(--black);
+    text-align: center;
+}
+
+main p:first-of-type {
+    text-align: center;
+    font-size: 1rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin: 1rem 0;
+    color: var(--black);
+    text-align: center;
+}
+
+/* Estilos del 1er cluster y 2do cluster  */
+
+.TSG-1er-cluster div, .TSG-2do-cluster div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: space-around;
+    padding: 1.5rem;
+}
+
+.TSG-1er-cluster article {
+    flex: 1 1 calc(30% - 1.5rem); /* Ajusta este valor según el tamaño deseado */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 0 10px var(--light-grey);
+    padding: .5rem;
+    background-color: var(--white-bold);
+    border-radius: 5px;
+}
+
+.TSG-2do-cluster article {
+    flex: 1 1 calc(30% - 1.5rem); /* Ajusta este valor según el tamaño deseado */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 0 10px var(--light-grey);
+    background-color: var(--white-bold);
+    border-radius: 5px;
+    overflow: hidden;
+    transition: transform .12s ease-in;
+}
+
+.TSG-2do-cluster article:hover {
+    transform: scale(1.1);
+}
+
+.TSG-1er-cluster article a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+}
+
+.TSG-2do-cluster article a {
+    background-image: linear-gradient(var(--transparent-black), #7c7c7c8a), url(../assets/imgs/servicios.webp);
+    background-repeat: no-repeat;
+    background-position:left;
+    background-size: cover;
+    height: 15rem;
+    width: 100%;
+    text-decoration: none;
+    color: var(--white-bold);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 1rem;
+}
+
+.TSG-1er-cluster article img {
+    width: 100%;
+    height: 200px; /* Ajusta la altura según sea necesario */
+    object-fit: cover; /* Mantiene la relación de aspecto */
+    border-radius: 5px 5px 0 0;
+}
+
+.TSG-1er-cluster article h3 {
+    margin: 1rem 0 0;
+    font-size: 1.2rem;
+}
+
+
+/* Estilo de producto estrella */
+
+.TSG-star-product__container {
+    overflow: hidden;
+}
+
+.TSG-star-product__container img {
+    float: right;
+    width: 30%;
+    margin-left: 1.5rem; /* Espacio entre la imagen y el texto */
+    margin-bottom: 1.5rem; /* Espacio debajo de la imagen */
+}
+
+.TSG-star-product p {
+    text-align: left;
+}
+
+.TSG-star-product__container-text p, 
+.TSG-star-product__container-text ul {
+    margin-top: 0;
+}
+
+.TSG-star-product ul {
+    list-style-type: none;
+    padding: 0; 
+}
+
+.TSG-star-product__container-text::after {
+    content: ""; /* Clearfix para limpiar floats */
+    display: table;
+    clear: both;
+}
+
+
+/* Estilos responsivos */
+@media (max-width: 810px) {
+    .TSG-1er-cluster article, .TSG-2do-cluster article {
+        flex: 1 1 calc(50% - 1.5rem);
+        max-width: calc(50% - 1.5rem);
+    }
+}
+
+@media (max-width: 500px) {
+    .TSG-1er-cluster article, .TSG-2do-cluster article {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+}
+
+
+@media (max-width: 1000px) {
+    main {
+        width: 100%;
+        padding: 1.5rem;
+    }
+
+    main p:first-of-type {
+        width: 80%;
+        margin: auto;
+    }
+}
