@@ -14,13 +14,13 @@
 <body>
     <header>
         <div class="container-nav">
-            <?php include 'nav.php'?>
+            <?php include './includes/nav.php'?>
         </div>
-         <?php include 'logo.php'?>
+         <?php include './includes/logo.php'?>
         </header>
     <main>
         <h1>Servicios Contables e Impositivos</h1>
-        <p>Si necesitas ayuda o asesoria sobre temas contables o impositivos, o simplemente te queres informar sobre estos temas, llegaste a la pagina indicada.</p>
+        <p class="TSG-1er-p">Si necesitas ayuda o asesoria sobre temas contables o impositivos, o simplemente te queres informar sobre estos temas, llegaste a la pagina indicada.</p>
         <section class="TSG-1er-cluster">
             <h2>Nuestros servicios más solicitados</h2>
             <div>
@@ -66,7 +66,7 @@
             <h2>Servicios</h2>
             <div>
                 <article>
-                    <a href="">
+                    <a href="./servicios/monotributo.php">
                         <h3>MONOTRIBUTO</h3>
                     </a>
                 </article>
@@ -120,31 +120,53 @@
                         <li>lsnrflksnflsdnvlvdnñskñr</li>
                     </ul> 
             </div>
-            <a href="">Saber más ahora</a>
+            <div class="TSG-star-product__container-a">
+                <a href="">Saber más ahora</a>
+            </div>
         </section>
         <section class="TSG-informational">
             <article>
-                <h2>¿Qué servicios brinda un estudio contable?</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, iusto minima voluptatibus possimus maiores earum eius aperiam, veritatis veniam dolores autem eveniet ullam esse ea ex ad numquam ab officia</p>     
+                <h2>¿Qué servicios ofrece un estudio contable?</h2>
+                <p>La rama de servicios que puede ofrecer un contador publico o un despacho contable es bastante amplia, pero lo vamos a resumir en 2 áreas. El área de gestoría y planificación impositiva, y el área de servicios contables. Ambas son muy importantes y ahora te vamos a explicar el porqué:</p>
+                <h3>Servicios Impositivos</h3>  
+                <p>Estos servicios se encargan de toda el área relacionada a impuestos y tributaciones de una empresa. También se encargan de la liquidación de sueldos para empleados. En resumen esta área se encarga de liquidar, asesorar, controlar y ayudar a las empresas en temas de impuestos tantos nacionales, como provinciales. Estos servicios se pueden brindar de forma online, sin necesidad de tener que asistir a ningún estudio.</p>
+                <h3>Servicios Contables</h3>
+                <p>Esta área está involucrada en lo que seria los registros, análisis, clasificación, costos, ingresos y reportes del área financiera de una empresa. Esto es esencial para mantener la empresa o negocio en camino correcto, para evitar tomar decisiones incorrectas.</p>
+                <p>Quiere decir que una empresa o consultoría que brinda servicios de contabilidad se encarga de mirar que la empresa este teniendo un correcto desarrollo llevando registro y elaborando análisis financieros.  En la mayoría de los casos estos servicios de contabilidad también se pueden brindar en línea, sin tener que asistir a ningún despacho contable.</p>
             </article>
             <article>
-                <h2>¿Por qué contratar un estudio contable</h2>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure aperiam maiores soluta qui officia iste, error tempora eaque expedita quibusdam libero sint eius ipsum nemo reprehenderit velit dicta vel nesciunt.</p>
+                <h2>¿Por qué contratar un estudio contable o contador público?</h2>
+                 <p>Al contar con asesoría experta tenes múltiples beneficios:</p>
+                 <ul>
+                    <li>
+                        <p><strong>Ahorro de dinero y tiempo: </strong> Contratando a un estudio especializado en esta área evitas dolores de cabeza con empleados que se tengan que encargar de lo mismo y que los tengas que capacitar.</p>
+                    </li>
+                    <li>
+                        <p><strong>Evitar problemas con afip:</strong> Al contar con asesoría experta en el tema, estas protegido y prevenido de cualquier error que puedas cometer con tus deberes fiscales e impositivos.</p>
+                    </li>
+                    <li>
+                        <p><strong>Mejor gestión de la empresa: </strong>Al tener un panorama mas claro sobre los libros de la empresa y su estado financiero, el dueño o gerente esta mas capacitado para la toma de decisiones y poder crecer la empresa.</p>
+                    </li>
+                 </ul>
             </article>
             <article>
-                <h2>¿Por qué asesorarte impositivamente?</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo voluptatum ipsum dolores fugit distinctio dolore laboriosam possimus illo nostrum minima, provident consequatur itaque doloremque commodi.</p>
+                <h2>¿Qué debo tener en cuenta para elegir un estudio contable?</h2>
+                <p>Antes de contratar a una empresa de contabilidad hay que tener en cuenta distintos puntos.</p>
+                <p><strong>1ro Identificar cuáles son las necesidades del negocio:</strong> No es lo mismo una empresa nacional con 500 empleados, que un negocio que recién está empezando. Por esta razón hay que tener en cuenta cuales son las necesidades a cubrir en este momento y contratar a un estudio especializado en ello. Por ejemplo en nuestro estudio contable no especializamos en brindar servicios impositivos y somos muy bueno en ello. Si te interesa saber más, dale <a href="">clic aqui</a></p>
+                <p><strong>2do Precio:</strong>  Es importante tener en cuenta la tarifa o precio de estos mismos, ya que hay una gran amplitud en este campo. Nosotros contamos con precios para todo tipo de necesidades, tanto para el que recién empieza, como para el que quiere delegar todo y recibir un servicio y reporte ejemplar cada mes.</p>
+                <p><strong>3ro Online o presencial:</strong> En esta nueva era de la tecnología la mayoría de las empresas que se dedican a dar estos servicios están actualizados, pero hay otras que no. Y esto es muy importante tenerlo en cuenta ya que el estar actualizados tecnológicamente ayuda a brindar mejores servicios y con menos márgenes de error humano, por eso en nuestro estudio contamos con las ultimas herramientas en software contables, tanto para los clientes como para nosotros.</p>
+                <p><strong>4to Experiencia:</strong> Este punto lo considero correcto, pero no con la relevancia de los otros ya que alguien con menos años de experiencia puede brindar un servicio estupendo gracias a modelo de gestión y sus herramientas, pero si es un punto a considerar ya que este rubro tiene una curva de aprendizaje y no estaría bueno caer en manos de alguien que todavía no paso por esa curva. Es por esto que nosotros contamos tanto con las herramientas como con la experiencia.</p>
             </article>
-            <article>
-                <h2>¿Qué pasa si no atiendo mis temas contables?</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, reiciendis? Quae, libero vitae sed ab ea sunt inventore. Corporis consectetur deleniti necessitatibus voluptatibus perferendis cupiditate, delectus e</p>
-            </article>
+            <div class="TSG-informational__container-a">
+                <a href="">Contactarnos Ahora</a>
+            </div>
         </section>
         <section class="FAQ">
             
         </section>
-        <?php include 'whatsappBtn.php'?>
+
+        <?php include './includes/whatsappBtn.php'?>
     </main>
-    <?php include 'footer.php'?>
+    <?php include './includes/footer.php'?>
 </body>
 </html>

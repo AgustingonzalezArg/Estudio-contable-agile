@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -53,13 +53,13 @@
     </script>
 </head>
 <body>
-    <?php include 'nav.php'?>
-    <?php include 'logo.php'?>
-    <?php include 'whatsappBtn.php'?>
+    <?php include('./includes/nav.php')?>
+    <?php include('./includes/logo.php')?>
+    <?php include('./includes/whatsappBtn.php')?>
     <header class="header">
             <p class="header__ubi">Córdoba, Argentina</p>
             <h1>Estudio Contable Agile</h1>
-            <p>Somos un estudio contable con sede en córdoba capital que se encarga de brindar servicios impositivos, laborales y tributarios para empresas, pymes, monotributistas y pequeños negocios.</p>
+            <p>Somos un estudio contable con sede en córdoba capital especializados en servicios impositivos y laborales para empresas, pymes, monotributistas y pequeños negocios.</p>
             <p>También ofrecemos nuestros servicios de gestión de forma online y a distancia.</p>
             <a href="https://api.whatsapp.com/send?phone=543512266150&text=Hola%20me%20interesa%20obtener%20mas%20informaci%C3%B3n%20sobre" target="_blank">
                 Asesorate Ahora
@@ -68,7 +68,7 @@
     <main>
         <section class="our-services">
             <h2>Nuestros Servicios</h2>
-            <p>Servicios de excelencia</p>
+            <p>Servicios de excelencia en el area impositiva</p>
             <hr>
             <div class="our-services__services">
                 <article class="impositive-services">
@@ -390,6 +390,6 @@
             </div>
         </section>
     </main>
-    <?php include 'footer.php'?>
+    <?php include('./includes/footer.php')?>
 </body>
 </html>

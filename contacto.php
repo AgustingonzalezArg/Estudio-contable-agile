@@ -13,8 +13,8 @@
 </head>
 <body>
     <header class="container-nav">
-        <?php include 'nav.php'?>
-        <?php include 'logo.php'?>
+        <?php include './includes/nav.php'?>
+        <?php include './includes/logo.php'?>  
     </header>
     <main>
     <section class="contact">
@@ -46,6 +46,6 @@
         </div>
     </section>
     </main>
-    <?php include 'footer.php'?>
+    <?php include './includes/footer.php'?>
 </body>
 </html>

@@ -26,7 +26,7 @@ html {
 
 .container-nav {
     height: 7rem;
-    background: linear-gradient(var(--transparent-black), var(--light-black));
+    background: linear-gradient(var(--dark-blue),var(--dark-blue));
 }
 
 @media (max-width: 1200px) {

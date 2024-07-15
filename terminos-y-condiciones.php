@@ -13,8 +13,8 @@
 </head>
 <body>
     <header class="container-nav">
-        <?php include 'nav.php'?>
-        <?php include 'logo.php'?>
+        <?php include './includes/nav.php'?>
+        <?php include './includes/logo.php'?>  
     </header>
 <main class="terminos-y-condiciones">
         <h1>Términos y Condiciones</h1>
@@ -53,6 +53,6 @@
         <p>Si tienes alguna pregunta sobre estos términos, por favor contáctanos:</p>
         <p><strong>Estudio Contable Agile</strong><br>Agustín Gonzalez<br>Email: contacto@estudioagile.com<br>Teléfono: +54 351 226 6150</p>
     </main>
-    <?php include 'footer.php'?>
+    <?php include './includes/footer.php'?>
 </body>
 </html>

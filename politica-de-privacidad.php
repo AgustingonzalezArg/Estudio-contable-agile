@@ -13,8 +13,8 @@
 </head>
 <body>
     <header class="container-nav">
-       <?php include 'nav.php'?>
-        <?php include 'logo.php'?>  
+       <?php include './includes/nav.php'?>
+        <?php include './includes/logo.php'?>  
     </header>
     <main >
     <div class="politica-de-privacidad">
@@ -49,7 +49,7 @@
         <p>Si tienes alguna pregunta sobre esta política de privacidad, las prácticas de este sitio, o tus tratos con este sitio, por favor contáctanos en:</p>
         <p><strong>Estudio Contable Agile</strong><br>Agustín Gonzalez<br>Email: contacto@estudioagile.com<br>Teléfono: +54 351 2266 150</p>
     </div>
-    <?php include 'footer.php'?>
+    <?php include './includes/footer.php'?>
     </main>
 </body>
 </html>
