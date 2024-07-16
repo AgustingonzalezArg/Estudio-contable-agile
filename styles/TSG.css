@@ -1,5 +1,5 @@
 html {
-    background-color: var(--white);
+    background: linear-gradient(var(--white), var(--white-bold));
 }
 
 
@@ -24,9 +24,12 @@ h2 {
     text-align: center;
 }
 
+.TSG-1er-p {
+    text-align: center;
+}
+
 .TSG-1er-p, .TSG-informational p {
     width: 80%;
-    text-align: center;
     margin: auto;
     padding: 1rem 0;
     font-size: 1.1rem;
@@ -102,6 +105,10 @@ h2 {
     text-align: center;
 }
 
+.TSG-2do-cluster article h3 {
+    color: var(--white-bold);
+}
+
 /* Estilo de producto estrella */
 
 .TSG-star-product__container {
@@ -156,6 +163,7 @@ h2 {
 .TSG-informational h3 {
     text-align: center;
     font-size: 1.5rem;
+    color: var(--black);
 }
 
 .TSG-informational__container-a a {
@@ -169,16 +177,15 @@ h2 {
     margin: 2rem 0;
 }
 
+.TSG-informational p {
+    text-align: left;
+}
+
 /* Estilos responsivos */
 @media (max-width: 810px) {
     .TSG-1er-cluster article, .TSG-2do-cluster article {
         flex: 1 1 calc(50% - 1.5rem);
         max-width: calc(50% - 1.5rem);
-    }
-
-    .TSG-informational p {
-        text-align: left;
-        width: 100%;
     }
 
     .TSG-informational h3 {

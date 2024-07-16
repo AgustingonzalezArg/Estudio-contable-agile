@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Servicios para monotributistas | Alta Baja Recategorización Gestion Mensual">
+    <meta name="description" content="Servicios para monotributistas | ✔ Alta ✔ Baja ✔ Recategorización ✔ Gestion Mensual">
     <link rel="stylesheet" href="../styles/style.css">
     <link rel="stylesheet" href="../styles/index.css">
     <link rel="stylesheet" href="../styles/TSG.css">
@@ -121,7 +121,7 @@
                 <h2>Impuesto a las Ganancias de Monotributo</h2>
                 <p>En el Monotributo, el componente impositivo incluye un aporte correspondiente al Impuesto a las Ganancias. Este aporte es fijo y está integrado en la cuota mensual que abona el contribuyente, simplificando así el cumplimiento de este impuesto para pequeños contribuyentes.</p>
             </article>
-            </article>
+            <article>
                 <h2>¿Precio de Monotributo?</h2>
                 <p>El costo del Monotributo varía según la categoría en la que se encuentra el contribuyente. Cada categoría tiene un monto fijo mensual que incluye los componentes impositivo, previsional y de obra social.</p> 
                 <div>

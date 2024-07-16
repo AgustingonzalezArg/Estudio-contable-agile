@@ -1,0 +1,38 @@
+.TSG-2do-cluster article a {
+    background-image: linear-gradient(var(--transparent-black), #7c7c7c8a), url(../../assets/imgs/certificaciones-de-ingresos.webp);
+}
+
+table {
+    width: 100%;
+    margin-bottom: 20px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+@media (max-width: 600px) {
+    th, td {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    tr {
+        margin-bottom: 10px;
+        display: block;
+    }
+    th {
+        background-color: #e2e2e2;
+        padding-top: 10px;
+    }
+    td {
+        border: none;
+        border-bottom: 1px solid #ddd;
+    }
+}
