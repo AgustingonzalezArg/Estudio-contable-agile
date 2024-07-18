@@ -28,7 +28,7 @@
             <p class="pp">Hace clic en el servicio que te interese para mas información</p>
             <div>
                 <article>
-                    <a href="">
+                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\alta.php">
                         <img src="../assets/imgs/alta-monotributo.webp" alt="Alta o inscripción de monotributo">
                         <h3>Inscripción - Alta Monotributo</h3>
                     </a>

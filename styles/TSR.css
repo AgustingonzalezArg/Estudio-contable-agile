@@ -1,0 +1,256 @@
+main {
+    width: 75%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+h1 {
+    font-size: 2.5rem;
+    margin: 1.5rem 1rem;
+    color: var(--black);
+    text-align: center;
+    
+}
+
+h2 {
+    font-size: 2rem;
+    margin: 1rem;
+    color: var(--black);
+    text-align: left;
+}
+
+p {
+    width: 90%;
+    margin: auto;
+    padding: 1rem 0;
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
+
+ main a {
+    text-decoration: none;
+    background-color: var(--blue);
+    padding: .6rem;
+    color: var(--white);
+    font-size: 1.2rem;
+    border-radius: 7px;
+    transition: background-color .1s ease-in;
+}
+
+main a:hover {
+    background-color: var(--light-blue);
+} 
+
+.container-a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1.5rem .3rem;
+}
+
+.cta-a {
+    font-size: 1.15rem;
+    text-align: center;
+    margin: 1.5rem;
+    padding: 2rem 0;
+}
+
+.benefit-product ul, .section-2 ul, .agile-service ul, .section-informational ul {
+    list-style-type: none;
+    width: 90%;
+    margin: auto;
+}
+
+.benefit-product li, .section-2 li, .agile-service li, .section-informational li{
+    margin: 1rem 0;
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
+
+/* Section 2 */
+.section-2 img {
+    width: 40%;
+    height: auto;
+    float: left;
+    margin: 1rem;
+
+}
+
+.section-2 a {
+    background-color: transparent;
+    color: var(--black);
+    text-decoration: underline;
+
+}
+
+.section-2 a:hover {
+    background-color: transparent;
+    font-weight: 700;
+}
+
+.section-2 h3 {
+    font-size: 1.7rem ;
+    margin: 2rem 1rem;
+    text-align: left;
+}
+
+/* Agile-service */
+.agile-service {
+    background-color: var(--dark-blue);
+    color: var(--white);
+    padding-bottom: 1rem;
+}
+
+.agile-service h2 {
+    color: var(--white-bold);
+}
+
+.agile-service img {
+    float: left;
+    width: 10rem;
+    height: auto;
+    margin: 0 .5rem;
+}
+
+
+/* Reviews*/
+
+
+.review-container {
+    position: relative;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    overflow: hidden;
+}
+.reviews {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+.review {
+    min-width: 100%;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+.review em {
+    font-style: italic;
+    font-weight: 600;
+}
+.arrow {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: 30px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    transform: translateY(-50%);
+    z-index: 20;
+}
+.arrow.left {
+    left: 0px;
+}
+.arrow.right {
+    right: 0px;
+}
+
+blockquote footer {
+    margin: 0;
+    background-color: transparent;
+    padding: 0;
+    min-height: auto;
+    font-weight: 600;
+}
+
+
+/* Cluster-other-services and services*/
+ 
+.cluster-other-services div, .cluster-services div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: space-around;
+    padding: 1.5rem;
+}
+
+ .cluster-other-services article {
+    padding: .5rem;
+} 
+
+.cluster-services article, .cluster-other-services article {
+    flex: 1 1 calc(30% - 1.5rem); /* Ajusta este valor según el tamaño deseado */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 0 10px var(--light-grey);
+    background-color: var(--white-bold);
+    border-radius: 5px;
+    overflow: hidden;
+    transition: transform .12s ease-in;
+}
+
+.cluster-services article:hover, .cluster-other-services article:hover {
+    transform: scale(1.1);
+}
+
+.cluster-other-services article a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    padding: 0;
+    background-color: transparent;
+}
+
+.cluster-services article a {
+    background-repeat: no-repeat;
+    background-position:left;
+    background-size: cover;
+    height: 15rem;
+    width: 100%;
+    text-decoration: none;
+    color: var(--white-bold);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 1rem;
+    margin: 0;
+    background-color: transparent;
+}
+
+.cluster-other-services article img {
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+
+.cluster-other-services article h3 {
+    margin: 1rem 0 0;
+    font-size: 1.2rem;
+}
+
+.cluster-other-services p {
+    text-align: center;
+}
+
+.cluster-services article h3 {
+    color: var(--white-bold);
+}
+
+@media (max-width: 1000px) {
+    main {
+        width: 100%;
+        padding: 1.5rem;
+    }
+}
+
+@media (max-width: 1000px) {
+    .agile-service img {
+        display: none;
+    }
+}
