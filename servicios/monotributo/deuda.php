@@ -160,29 +160,5 @@
     </main>
     <?php include '../../includes/whatsappBtn.php'?>
     <?php include '../../includes/footer.php'?>
-    <script>
-        let currentReview = 0;
-
-        function showReview(index) {
-            const reviews = document.querySelector('.reviews');
-            const totalReviews = document.querySelectorAll('.review').length;
-            if (index >= totalReviews) {
-                currentReview = 0;
-            } else if (index < 0) {
-                currentReview = totalReviews - 1;
-            } else {
-                currentReview = index;
-            }
-            reviews.style.transform = 'translateX(' + (-currentReview * 100) + '%)';
-        }
-
-        function nextReview() {
-            showReview(currentReview + 1);
-        }
-
-        function prevReview() {
-            showReview(currentReview - 1);
-        }
-    </script>
 </body>
 </html>

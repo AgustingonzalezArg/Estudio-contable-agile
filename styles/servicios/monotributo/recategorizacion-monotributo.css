@@ -1,0 +1,19 @@
+.section-1 {
+    background-image: linear-gradient(var(--transparent-black), var(--transparent-black)), url(../../../assets/imgs/recategorizacion-monotributo.webp);
+    min-height: 70vh;
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-top: 1rem;
+}
+
+.section-1 p {
+    color: var(--white-bold);
+}
+
+h1 {
+    color: var(--white-bold);
+}
+
+.cluster-services article a {
+    background-image: linear-gradient(var(--transparent-black), #7c7c7c8a), url(../../../assets/imgs/servicios.webp);
+}
