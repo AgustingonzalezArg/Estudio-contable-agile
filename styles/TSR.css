@@ -77,14 +77,14 @@ main a:hover {
 
 }
 
-.section-2 a {
+.section-2 a, .section-informational a {
     background-color: transparent;
     color: var(--black);
     text-decoration: underline;
 
 }
 
-.section-2 a:hover {
+.section-2 a:hover, .section-informational a:hover {
     background-color: transparent;
     font-weight: 700;
 }
