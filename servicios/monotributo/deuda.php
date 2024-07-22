@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Recategorizacion de monotributo, solucionamos tus problemas impositivos. Servicios impositivos y contables.">
+    <meta name="description" content="Generamos planes de pagos y la mejor estrategia para salir de deudas en el monotributo. Somos un estudio contable digital que trabaja de forma online para todo el pais.">
     <link rel="stylesheet" href="../../styles/style.css">
     <link rel="stylesheet" href="../../styles/index.css">
     <link rel="stylesheet" href="../../styles/TSR.css">
-    <link rel="stylesheet" href="../../styles/servicios/monotributo/recategorizacion-monotributo.css">
+    <link rel="stylesheet" href="../../styles/servicios/monotributo/deuda.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
-    <title>Recategorización Monotributo 2024 | Estudio Agile</title>
+    <title>Deuda en el Monotributo - Solución </title>
 </head>
 <body>
     <header>
@@ -22,48 +22,25 @@
     </header>
     <main>
         <section class="section-1">
-            <h1>Recategorización monotributo 2023-2024</h1>
-            <p>
-            La recategorización es un proceso obligatorio que los monotributistas deben efectuar cada seis meses. Este procedimiento sirve para evaluar si, según los ingresos obtenidos en los últimos 12 meses, corresponde un cambio de categoría. Si no es necesario cambiar de categoría, no se requiere realizar ningún trámite adicional.</p>
-            <p>En esta pagina vas a encontrar toda la información sobre la recategorizacion de monotributistas. A quien le corresponde hacerlo, porque, escalas, montos y precios.</p>
+            <h1>Deudas en el monotributo</h1>
+            <p> El Monotributo se paga el día 20 de cada mes. Es fundamental realizar el pago en tiempo y forma para evitar inconvenientes. Si el pago no se efectúa puntualmente, se genera una deuda con la AFIP.</p>
+            <p>Esta deuda no solo incluye el monto adeudado, sino también intereses y recargos que aumentan con el tiempo.</p>
             <div class="container-a">
-                <a href="">Hacer mi recategorización ahora</a>
+                <a href="">Eliminar deuda ahora</a>
             </div>
         </section>
         
         <section class="section-2">
-            <h2>Nuevos valores para cambiar de categoria en monotributo 2024</h2>
-            <p>A partir del 1ro de Agosto del 2024 entran en vigencia los nuevos valores de facturacion y pagos del monotributo. Los nuevos valores (generales no unificados) son los siguientes.</p>
+            <h2>¿Cómo saber si tengo deudas con la AFIP monotributo?</h2>
+            <p> Para corroborar si tenés una deuda con la AFIP te podrías contactar con un estudio contable o contador para que te asesoren y te digan cómo podrías solucionarlo. Ahora, si prefieres hacerlo por tu cuenta, aquí está el paso a paso.</p>
+            <h3>Saber si tengo deuda con AFIP paso a paso</h3>
+            <p>Haciendo uso de tu Volante Electrónico de Pago (VEP) puedes consultar el estado de tu deuda.</p>
             <ul>
-                <li><strong>Categoría A</strong>: La facturación pasa de $2.108.288,01 a $6,45 millones. 
-                    <p>El monto total a pagar sin aporte y obra social es de $3000</p></li>
-                <li><strong>Categoría B</strong>: La facturación pasa de $3.133.941,63 a $9,45 millones. 
-                    <p>El monto total a pagar sin aporte y obra social es de $5700</p></li>
-                <li><strong>Categoría C</strong>: La facturación pasa de $4.387.518,23 a $13,25 millones. 
-                    <p>El monto total a pagar sin aporte y obra social es de $9800 (servicios) y $9000 (comercio)</p></li>
-                <li><strong>Categoría D</strong>: La facturación pasa de $5.449.094,55 a $16,45 millones. 
-                    <p>El monto total a pagar sin aporte y obra social es de $16.000 (servicios) y $14.900 (comercio)</p></li>
-                <li><strong>Categoría E</strong>: La facturación pasa de $6.416.528,72 a $19,35 millones. 
-                    <p>El monto total a pagar sin aporte y obra social es de $30.000 (servicios) y $23.800 (comercio)</p></li>
-                <li><strong>Categoría F</strong>: La facturación pasa de $8.020.660,9 a $24,25 millones. 
-                    <p>El monto total a pagar sin aporte y obra social es de $42.200 (servicios) y $31.000 (comercio)</p></li>
-                <li><strong>Categoría G</strong>: La facturación pasa de $9.624.793,05 a $29 millones. 
-                    <p>El monto total a pagar sin aporte y obra social es de $76.800 (servicios) y $38.400 (comercio)</li>
-                <li><strong>Categoría H</strong>: La facturación pasa de $11.916.410,45 a $44 millones. 
-                    <p>El monto total a pagar sin aporte y obra social es de $220.000 (servicios) y $110.000 (comercio).</p></li>
-                <li><strong>Categoría I</strong>: La facturación pasa de $13.337.213,22 a $49,25 millones. 
-                    <p>El monto total a pagar sin aporte y obra social es de $175.000 (comercio) y $437.500 (servicios)</p></li>
-                <li><strong>Categoría J</strong>: La facturación pasa de $15.285.088,04 a $56,4 millones. 
-                    <p>El monto total a pagar sin aporte y obra social es de $210.000 (comercio) y $525.000 (servicios)</p></li>
-                <li><strong>Categoría K</strong>: La facturación pasa de $16.957.968,71 a $68 millones. 
-                    <p>El monto total a pagar sin aporte y obra social es de $245.000 (comercio) y $735.000 (servicios)</p></li>
+                <li>Accede al portal de AFIP con tu Clave Fiscal e ingresa tu número de CUIT/CUIL/CDI y tu clave.</li>
+                <li>El sistema mostrará una lista de los servicios de AFIP que tienes habilitados. Selecciona "Presentación de DDJJ y Pagos".</li>
+                <li>En el menú de la izquierda, elige la opción "VEP desde Deuda" bajo el título "Pagos".</li>
+                <li>Después de ingresar tu número de CUIT/CUIL y hacer clic en "Ver Consulta", el sistema mostrará los períodos adeudados del Monotributo. Desde aquí, podrás seleccionar los períodos que deseas pagar marcando el recuadro a la izquierda de cada período y presionando el botón "Generar VEP" para continuar con el trámite de pago habitual.</li>
             </ul>
-        <a href=""><em>Quiero realizar mi recategorización para evitar problemas con la AFIP</em></a>
-        </section>
-        
-        <section class="section-informational">
-            <h2>Fecha de Recategorización</h2>
-            <p>La recategorización es la evaluación que los monotributistas deben llevar a cabo dos veces al año para determinar si deben mantenerse en la misma categoría, cambiarla, o incluso excluirse del régimen. Esto se realiza 2 veces al año uno en <strong>Enero</strong> y otra en <strong>julio</strong>. </p>
         </section>
 
         <section class="agile-service">
@@ -84,27 +61,53 @@
         </section>
         
         <section class="section-informational">
-            <h2>¿Cuando tengo que recategorizarme?</h2>
-            <p>Debes recategorizarte en el monotributo para asegurarte de que estás en la categoría correcta según tus ingresos brutos, superficie afectada, alquileres devengados y energía eléctrica consumida en los últimos 12 meses. Si superas los montos correspondientes a tu categoria deberas realizar la recategorizacion. Lo mismo sucede si facturas menos de lo recomendado en la categoria, deberias bajarte una categoria para optimizar el pago de impuestos. Esto es fundamental para pagar los montos adecuados, y para evitar sanciones o la pérdida de beneficios del régimen del monotributo.</p>
+            <h2>¿Cómo pago deudas atrasadas del monotributo?</h2>
+            <p> Cuando tenés deudas atrasadas o vencidas del monotributo, no solo debes la cuota, sino también los intereses que se van generando por la falta de pago. Aquí hay una explicación de las formas que hay para salir de la deuda.</p>    
+            <ul>
+                <li>
+                    <strong>Abonar mediante homebanking:</strong>
+                    <p>Para aquellos cuyo Monotributo se venció por solo uno o dos meses, lo más sencillo es generar un Volante Electrónico de Pago (VEP). Este se puede crear en la página web de AFIP, utilizando el servicio CCMA.</p>
+                </li>
+                <li>
+                    <strong>Abonar con plan de pagos:</strong>
+                    <p>Si la deuda del contribuyente es superior a dos meses, lo más conveniente podría ser cancelarla mediante un plan de pagos. Para ello, se debe ingresar el CBU y calcular las diferentes opciones de cuotas. Una vez seleccionada la cantidad de cuotas, estas se debitarán automáticamente del CBU indicado cada mes.</p>
+                </li>
+                <li>
+                    <strong>Abonar con credencial de pago:</strong>
+                    <p>En este caso, independientemente de cuántos períodos adeudes, también puedes pagar en Rapipago, Pago Fácil o Bapro utilizando una credencial de pago y especificando los períodos que deseas abonar. Sin embargo, esta opción tiene una limitación: no incluye los intereses generados por la demora en el pago. Estos intereses solo pueden abonarse a través de homebanking o mediante un plan de pagos.</p>
+                </li>
+                <li>
+                    <strong>Tarjeta de crédito:</strong>
+                    <p>Podés adherirte al débito automático o hacerlo por llamada:</p>
+                    <ul>
+                        <li>Si es Argencard - Mastercard, el número es (011) 4340-5665.</li>
+                        <li>Visa, se puede llamar al (011) 4378-4499.</li>
+                        <li>Cabal, el número es (011) 4319-2550.</li>
+                    </ul>
+                </li>
+            </ul>
+            <div class="container-a">
+                <a href="">Eliminar deuda</a>
+            </div>
         </section>
         
         <section class="cluster-other-services">
             <h2>Otros servicios que te pueden interesar</h2>
             <div>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/recategorizacion.php">
                         <img src="../../assets/imgs/recategorizacion-monotributo.webp" alt="Recategorizacion de monotributo">
                         <h3>Recategorización Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/gestion.php">
                         <img src="../../assets/imgs/gestion-monotributo.webp" alt="Gestión del monotributo mensual">
                         <h3>Gestión del Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/devolucion-impuesto-pais.php">
                         <img src="../../assets/imgs/creacion-sas.webp" alt="Creación de SAS - Sociedad por acciones Simplificadas">
                         <h3>Devolución impuesto pais</h3>
                     </a>
@@ -116,42 +119,42 @@
             <h2>Todos nuestros servicios</h2>
             <div>
                 <article>
-                    <a href="./servicios/monotributo.php">
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo.php">
                         <h3>MONOTRIBUTO</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/responsable-inscripto.php">
                         <h3>RESPONSABLES INSCRIPTOS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/liquidacion-sueldos.php">
                         <h3>LIQUIDACIÓN DE SUELDOS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/empleadas-domesticas.php">
                         <h3>SERVICIOS EMP. DOMESTICAS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/bienes-personales.php">
                         <h3>BIENES PERSONALES</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/devolucion-impuesto-pais.php">
                         <h3>GESTIÓN DEVOLUCIÓN IMPUESTO PAIS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/declaracion-ganacias.php">
                         <h3>DECLARACIÓN DE GANANCIAS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/convenio-multilateral.php">
                         <h3>CONVENIO MULTILATERAL</h3>
                     </a>
                 </article>

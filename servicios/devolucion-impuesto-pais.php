@@ -105,21 +105,21 @@
             <h2>Otros servicios que te pueden interesar</h2>
             <div>
                 <article>
-                    <a href="">
-                        <img src="../assets/imgs/recategorizacion-monotributo.webp" alt="Recategorizacion de monotributo">
-                        <h3>Recategorización Monotributo</h3>
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/alta.php">
+                        <img src="../../assets/imgs/alta-monotributo.webp" alt="Alta monotributo">
+                        <h3>Alta Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
-                        <img src="../assets/imgs/gestion-monotributo.webp" alt="Gestión del monotributo mensual">
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/gestion.php">
+                        <img src="../../assets/imgs/gestion-monotributo.webp" alt="Gestión del monotributo mensual">
                         <h3>Gestión del Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/alta.php">
-                        <img src="../assets/imgs/alta-monotributo.webp" alt="Alta e inscripción en el monotributo">
-                        <h3>Alta Monotributo</h3>
+                    <a href="http://localhost/estudio_contable_agile/servicios/responsable-inscripto/sas.php">
+                        <img src="../../assets/imgs/creacion-sas.webp" alt="Creación de SAS - Sociedad por acciones Simplificadas">
+                        <h3>Creacion de SAS</h3>
                     </a>
                 </article>
             </div>
@@ -129,42 +129,42 @@
             <h2>Todos nuestros servicios</h2>
             <div>
                 <article>
-                    <a href="./servicios/monotributo.php">
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo.php">
                         <h3>MONOTRIBUTO</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/responsable-inscripto.php">
                         <h3>RESPONSABLES INSCRIPTOS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/liquidacion-sueldos.php">
                         <h3>LIQUIDACIÓN DE SUELDOS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/empleadas-domesticas.php">
                         <h3>SERVICIOS EMP. DOMESTICAS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/bienes-personales.php">
                         <h3>BIENES PERSONALES</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/devolucion-impuesto-pais.php">
                         <h3>GESTIÓN DEVOLUCIÓN IMPUESTO PAIS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/declaracion-ganacias.php">
                         <h3>DECLARACIÓN DE GANANCIAS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost/estudio_contable_agile/servicios/convenio-multilateral.php">
                         <h3>CONVENIO MULTILATERAL</h3>
                     </a>
                 </article>

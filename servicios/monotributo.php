@@ -34,49 +34,49 @@
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\recategorizacion.php">
                         <img src="../assets/imgs/recategorizacion-monotributo.webp" alt="Recategorizacion de monotributo">
                         <h3>Recategorización Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
-                        <img src="../assets/imgs/deuda.webp" alt="Gestion - Alta de monotributo con deuda">
+                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\deuda.php">
+                        <img src="../assets/imgs/deuda.webp" alt="Eliminacion de deuda del monotributo">
                         <h3>Deudas Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\gestion.php">
                         <img src="../assets/imgs/gestion-monotributo.webp" alt="Gestión del monotributo mensual">
                         <h3>Gestion de Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\responsable-inscripto-monotributista.php">
                         <img src="../assets/imgs/apreton_manos.webp" alt="De responsable inscripto a monotributista">
                         <h3>Responsable Inscripto a Monotributista</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
-                        <img src="../assets/imgs/monotributo-promovido.webp" alt="Alta de local o punto de venta">
+                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\monotributista-responsable-inscripto.php">
+                        <img src="../assets/imgs/monotributo-promovido.webp" alt="Monotributista a Responsable Inscripto">
                         <h3>Monotributista a Responsable Inscripto</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\pedidosya.php">
                         <img src="../assets/imgs/PedidosYa.webp" alt="Alta y gestion de PedidosYA - Uber - rappi">
                         <h3>PedidosYA - Uber - Rappi</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\baja.php">
                         <img src="../assets/imgs/baja-monotributo.webp" alt="Baja del monotributo">
                         <h3>Baja Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\unificado.php">
                         <img src="../assets/imgs/monotributo-unificado.webp" alt="Monotributo unificado">
                         <h3>Monotributo Unificado</h3>
                     </a>
@@ -253,18 +253,18 @@
             <h2>Servicios que tambien te puede interesar</h2>
             <div>
                 <article>
-                        <a href="">
+                        <a href="http://localhost/estudio_contable_agile/servicios/responsable-inscripto.php">
                             <h3>RESPONSABLES INSCRIPTOS</h3>
                         </a>
                 </article>
                 <article>
-                        <a href="">
+                        <a href="http://localhost/estudio_contable_agile/servicios/devolucion-impuesto-pais.php">
                             <h3>GESTIÓN DEVOLUCIÓN IMPUESTO PAIS</h3>
                         </a>
                 </article>
                 <article>
-                        <a href="">
-                            <h3>CONVENIO MULTILATERAL</h3>
+                        <a href="http://localhost/estudio_contable_agile/servicios/empleada-domestica.php">
+                            <h3>EMPLEADA DOMESTICA</h3>
                         </a>
                 </article>
             </div>

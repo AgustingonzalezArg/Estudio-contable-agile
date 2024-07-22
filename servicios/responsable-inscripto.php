@@ -21,11 +21,10 @@
          <?php include '../includes/logo.php'?>
     </header>
     <main>
-        <div class="1ra-img">
-            <img src="../assets/imgs/gestion-monotributo.webp" alt="Gestión del monotributo mensual">
-        </div>
-        <h1>Responsable Inscripto</h1>
-        <p class="TSG-1er-p">Como Responsable Inscripto, formas parte del régimen general y debes liquidar cada uno de los impuestos de manera individual. Los impuestos a liquidar incluyen IVA, Ganancias y Autónomos (seguridad social y obra social)</p>
+        <section class="section-1">
+            <h1>Responsable Inscripto</h1>
+            <p class="TSG-1er-p">Como Responsable Inscripto, formas parte del régimen general y debes liquidar cada uno de los impuestos de manera individual. Los impuestos a liquidar incluyen IVA, Ganancias y Autónomos (seguridad social y obra social)</p>
+        </section>
         <section class="TSG-informational">
             <article>
                 <h2>¿Qué es responsable Inscripto?</h2>
@@ -67,36 +66,40 @@
             <p class="pp">Hace clic en el servicio que te interese para mas información</p>
             <div>
                 <article>
+                    <a href="http://localhost\estudio_contable_agile\servicios\liquidacion-suledos.php">
                         <img src="../assets/imgs/recategorizacion-monotributo.webp" alt="Recategorizacion de monotributo">
                         <h3>Liquidación de Sueldos</h3>
+                    </a>
                 </article>
                 <article>
-                        <img src="../assets/imgs/alta-monotributo.webp" alt="Alta o inscripción de monotributo">
+                    <a href="http://localhost\estudio_contable_agile\servicios\responsable-inscripto\alta.php">
+                        <img src="../assets/imgs/alta-monotributo.webp" alt="Alta o inscripción como responsable inscripto">
                         <h3>Alta Responsable Inscripto</h3>
+                    </a>
                 </article>
                 <article>
-                        <img src="../assets/imgs/deuda.webp" alt="Gestion - Alta de monotributo con deuda">
-                        <h3>Autonomo</h3>
-                </article>
-                <article>
+                    <a href="http://localhost\estudio_contable_agile\servicios\iva.php">
                         <img src="../assets/imgs/monotributo-promovido.webp" alt="Alta de local o punto de venta">
                         <h3>IVA</h3>
+                    </a>
                 </article>
                 <article>
+                    <a href="http://localhost\estudio_contable_agile\servicios\responsable-inscripto\ganancias.php">
                         <img src="../assets/imgs/gestion-monotributo.webp" alt="Gestión del monotributo mensual">
                         <h3>Ganancias</h3>
+                    </a>
                 </article>
                 <article>
-                        <img src="../assets/imgs/apreton_manos.webp" alt="De responsable inscripto a monotributista">
+                    <a href="http://localhost\estudio_contable_agile\servicios\responsable-inscripto\bienes-personales.php">
+                        <img src="../assets/imgs/apreton_manos.webp" alt="BIenes">
                         <h3>Bienes Personales</h3>
+                    </a>
                 </article>
                 <article>
+                    <a href="http://localhost\estudio_contable_agile\servicios\responsable-inscripto\gestion.php">
                         <img src="../assets/imgs/PedidosYa.webp" alt="Alta y gestion de PedidosYA - Uber - rappi">
                         <h3>Gestión mensual Responsable Inscripto</h3>
-                </article>
-                <article>
-                        <img src="../assets/imgs/baja-monotributo.webp" alt="Baja del monotributo">
-                        <h3>Ingresos Brutos</h3>
+                    </a>
                 </article>
             </div>
         </section>
@@ -142,22 +145,22 @@
             <h2>Tipos de Responsables Inscriptos</h2>
             <div>
                 <article>
-                        <a href="">
+                        <a href="http://localhost\estudio_contable_agile\servicios\responsable-inscripto\persona-fisica.php">
                             <h3>Persona Fisica: Unipersonal</h3>
                         </a>
                 </article>
                 <article>
-                        <a href="">
+                        <a href="http://localhost\estudio_contable_agile\servicios\responsable-inscripto\sas.php">
                             <h3>Sociedades: SAS</h3>
                         </a>
                 </article>
                 <article>
-                        <a href="">
+                        <a href="http://localhost\estudio_contable_agile\servicios\responsable-inscripto\srl.php">
                             <h3>Sociedades: SRL</h3>
                         </a>
                 </article>
                 <article>
-                        <a href="">
+                        <a href="http://localhost\estudio_contable_agile\servicios\responsable-inscripto\sa.php">
                             <h3>Sociedades: S.A</h3>
                         </a>
                 </article>
@@ -174,18 +177,19 @@
             <h2>Servicios que tambien te puede interesar</h2>
             <div>
                 <article>
-                        <a href="">
+                        <a href="http://localhost\estudio_contable_agile\servicios\monotributo.php">
                             <h3>MONOTRIBUTO</h3>
                         </a>
                 </article>
                 <article>
-                        <a href="">
+                        <a href="http://localhost/estudio_contable_agile/servicios/devolucion-impuesto-pais.php">
                             <h3>GESTIÓN DEVOLUCIÓN IMPUESTO PAIS</h3>
                         </a>
                 </article>
                 <article>
-                        <a href="">
-                            <h3>CONVENIO MULTILATERAL</h3>
+                        <a href="http://localhost/estudio_contable_agile/servicios/empleadas-domesticas.php">
+                            <h3>EMPLEADAS DOMESTICAS
+                            </h3>
                         </a>
                 </article>
             </div>
