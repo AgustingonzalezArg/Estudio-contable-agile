@@ -28,7 +28,7 @@ p {
     letter-spacing: 1px;
 }
 
- main a {
+ .container-a a {
     text-decoration: none;
     background-color: var(--blue);
     padding: .6rem;
@@ -36,17 +36,6 @@ p {
     font-size: 1.2rem;
     border-radius: 7px;
     transition: background-color .1s ease-in;
-}
-
-main a:hover {
-    background-color: var(--light-blue);
-} 
-
-.container-a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 1.5rem .3rem;
 }
 
 .cta-a {
@@ -82,6 +71,18 @@ main a:hover {
     color: var(--black);
     text-decoration: underline;
 
+}
+
+.container-a a:hover {
+    background-color: var(--light-blue);
+} 
+
+
+.container-a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1.5rem .3rem;
 }
 
 .section-2 a:hover, .section-informational a:hover {
