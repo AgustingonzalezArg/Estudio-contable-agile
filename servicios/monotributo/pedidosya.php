@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Generamos planes de pagos y la mejor estrategia para salir de deudas en el monotributo. Somos un estudio contable digital que trabaja de forma online para todo el pais.">
+    <meta name="description" content="Te explixcamos todo lo que necesitas para darte de alta en el monotributo para ✔ PedidosYa,  ✔ Rappi, ✔ RappiBoy y otras plataformas de delibery. EstudioAgile.com">
     <link rel="stylesheet" href="../../styles/style.css">
     <link rel="stylesheet" href="../../styles/index.css">
     <link rel="stylesheet" href="../../styles/TSR.css">
@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
-    <title>Deuda en el Monotributo - Solución </title>
+    <title>Monotributo para PedidosYa y Uber </title>
 </head>
 <body>
     <header>
