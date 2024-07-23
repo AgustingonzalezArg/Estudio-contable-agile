@@ -1,0 +1,68 @@
+.section-1 {
+    background-image: linear-gradient(var(--transparent-black), var(--transparent-black)), url(../assets/imgs/deuda.webp);
+    background-position: center;
+    min-height: 80vh;
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-top: 1rem;
+}
+
+.section-1 p {
+    color: var(--white-bold);
+}
+
+h1 {
+    color: var(--white-bold);
+}
+
+
+
+/* Reviews */
+
+.review-container {
+    position: relative;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    overflow: hidden;
+}
+.reviews {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+.review {
+    min-width: 100%;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+.review em {
+    font-style: italic;
+    font-weight: 600;
+}
+.arrow {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: 30px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    transform: translateY(-50%);
+    z-index: 20;
+}
+.arrow.left {
+    left: 0px;
+}
+.arrow.right {
+    right: 0px;
+}
+
+
+blockquote footer {
+    margin: 0;
+    background-color: transparent;
+    padding: 0;
+    min-height: auto;
+    font-weight: 600;
+}

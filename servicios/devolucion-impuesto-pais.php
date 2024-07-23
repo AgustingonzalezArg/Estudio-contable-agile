@@ -106,19 +106,19 @@
             <div>
                 <article>
                     <a href="http://localhost/estudio_contable_agile/servicios/monotributo/alta.php">
-                        <img src="../../assets/imgs/alta-monotributo.webp" alt="Alta monotributo">
+                        <img src="../assets/imgs/alta-monotributo.webp" alt="Alta monotributo">
                         <h3>Alta Monotributo</h3>
                     </a>
                 </article>
                 <article>
                     <a href="http://localhost/estudio_contable_agile/servicios/monotributo/gestion.php">
-                        <img src="../../assets/imgs/gestion-monotributo.webp" alt="Gestión del monotributo mensual">
+                        <img src="../assets/imgs/gestion-monotributo.webp" alt="Gestión del monotributo mensual">
                         <h3>Gestión del Monotributo</h3>
                     </a>
                 </article>
                 <article>
                     <a href="http://localhost/estudio_contable_agile/servicios/responsable-inscripto/sas.php">
-                        <img src="../../assets/imgs/creacion-sas.webp" alt="Creación de SAS - Sociedad por acciones Simplificadas">
+                        <img src="../assets/imgs/creacion-sas.webp" alt="Creación de SAS - Sociedad por acciones Simplificadas">
                         <h3>Creacion de SAS</h3>
                     </a>
                 </article>
