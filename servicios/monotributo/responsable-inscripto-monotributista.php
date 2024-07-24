@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Realizamos la gestion de monotributo unificado para cordoba, de forma digital y en menos de 48 hs ✔ Velocidad ✔ Eficiencia ✔ Digital / online ✔ Realizado por expertos en el rubro.">
+    <meta name="description" content="Te explixcamos todo lo que necesitas para darte de alta en el monotributo para ✔ PedidosYa,  ✔ Rappi, ✔ RappiBoy y otras plataformas de delibery. EstudioAgile.com">
     <link rel="stylesheet" href="../../styles/style.css">
     <link rel="stylesheet" href="../../styles/index.css">
     <link rel="stylesheet" href="../../styles/TSR.css">
-    <link rel="stylesheet" href="../../styles/servicios/monotributo/unificado.css">
+    <link rel="stylesheet" href="../../styles/servicios/monotributo/responsable-inscripto-monotributista.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-    <title>Monotributo unificado - Cordoba</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <title>Monotributo para PedidosYa y Uber </title>
 </head>
 <body>
     <header>
@@ -22,19 +22,25 @@
     </header>
     <main>
         <section class="section-1">
-            <h1>Monotributo unificado para Córdoba</h1>
-            <p>El monotributo unificado combina trámites nacionales y provinciales en un solo pago de impuestos, simplificando así la carga administrativa para los contribuyentes. Realizamos esta gestión de forma rápida y online.</p>
+            <h1>¿Cómo pasar de responsable inscripto a monotributista?</h1>
+            <p>El responsable inscripto cuenta con una carga tributaria mucho mayor al monotributista, por eso es necesario evaluar con las nuevas escalas del monotributo y si esta la posibilidad dar la baja como responsable inscripto y dar el alta al monotributo. Esto trae consigo algunas limitaciones de facturacion y estructura pero vendria bien analizarlo.
+            </p>
             <div class="container-a">
-                <a href="">Hacer mi monotributo unificado</a>
+                <a href="">Pasar a Monotributista ahora</a>
             </div>
         </section>
         
         <section class="section-2">
-            <h2> ¿Qué es el monotributo unificado?</h2>
-            <p>El monotributo unificado simplifica la carga administrativa al agrupar trámites nacionales y provinciales en un único pago de impuestos. Se paga una cuota mensual fija y no se aplican retenciones en cuentas bancarias ni en tarjetas de débito y crédito. Además, elimina la obligación de presentar la declaración jurada mensual y anual de ingresos brutos.</p>
-            <p>Esta informacion fue obtenida de la pagina de AFIP</p>
+            <h2>¿Un responsable inscripto puede volver al monotributo?</h2>
+            <p>La respuesta es sí, un responsable inscripto puede volver al monotributo, pero si cumple con los requisitos correspondientes. </p>
+            <p>Primero debemos controlar que nuestra facturación, uso de energía eléctrica, espacio utilizado, etc. cumpla con los topes de las nuevas escala del monotributo. </p>
+            <p>Ahora tenemos dos situaciones:</p>
+            <ul>
+                <li>Sí contribuyente era monotributista, pero fue excluido automáticamente por alguna de las causales de exclusión establecidas en la normativa de AFIP, deberá esperar tres años para regresar al Monotributo. Esta cláusula tiene una duración de tres años</li>
+                <li>Ahora, si subiste a responsable inscripto sin ser excluido automáticamente del monotributo podés realizar la gestión para volver al monotributo sin problema.</li>
+            </ul>
         </section>
-        
+
         <section class="agile-service">
             <img src="../../assets/logo/logoTransparente.webp" alt="logo de estudio contable Agile">
             <h2>SERVICIO AGILE: Alta monotributo para deliverys y choferes</h2>
@@ -48,31 +54,25 @@
                 <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
             </ul>
             <div class="container-a">
-                <a href="">Unificar mi monotributo</a>
+                <a href="">Pasar a monotributista</a>
             </div>
-        </section>
-
-        <section class="section-informational">
-            <h2>¿Qué incluye el pago del monotributo unificado?</h2>
-            <p> Al tener el monotributo unificado podés pagar o abonar en un solo pago todo lo siguiente:</p>
-            <ul>
-                <li>El impuesto integrado.</li>
-                <li>Aportes correspondientes al Sistema Integrado Previsional Argentino (SIPA).</li>
-                <li>Si correspondiera, también el pago al Sistema Nacional del Seguro de Salud.</li>
-                <li>Impuesto sobre los ingresos brutos.</li>
-                <li>La contribución que afecta la actividad comercial, industrial y de servicios se aplica siempre y cuando el municipio o comuna haya firmado un convenio de colaboración con la Provincia para la recaudación de dicho tributo.</li>
-            </ul>   
         </section>
         
         <section class="section-informational">
-            <h2>¿Quiénes pueden tener monotributo simplificado en 2024?</h2>
-            <p>El monotributo simplificado, que es un sinónimo del monotributo unificado, está destinado a los ciudadanos que se encuentran alcanzados por el impuesto sobre los Ingresos Brutos (solo las provincias adheridas) y por la contribución municipal.</p>    
-            <p>Las provincias adheridas al monotributo unificado son: Entre Ríos, Mendoza, Córdoba, San Juan, Jujuy, Salta, Río Negro, Buenos Aires, Neuquén, Santa Cruz, Chaco, Catamarca y Tierra del Fuego.</p>
+            <h2>Pasos para que un responsable inscripto vuelva al monotributo</h2>
+            <p>Si cumplís con los requisitos podés volver al monotributo siguiendo estos pasos</p>
+            <ol>
+                <li>Deberás acceder a la página principal de AFIP (con tu contraseña) y luego entrar a la sección de monotributo.</li>
+                <li>Luego debe elegir que tipo de monotributo debe dar de alta. Lo más común es seleccionar la opción “Como trabajador independiente”</li>
+                <li>Luego deberás seleccionar que actividad va a desarrollar, aproximadamente cuánto piensa facturar y en que fecha empezaría</li>
+                <li>Ahora debe seleccionar si quiere aportar a la jubilación o si por el contrario ya se encuentra haciéndolo por otro lado (por ejemplo trabaja en una empresa y la empresa ya hace sus aportes)</li>
+                <li>Elegir una obra social</li>
+                <p>Al realizar el siguiente proceso el Impuesto IVA ya se da de baja automáticamente, lo que sí debería hacer es la baja de Ganancias manualmente. </p>
+            </ol>
             <div class="container-a">
-                <a href="">Hacer mi monotributo unificado</a>
+                <a href="">Pasar a monotributista</a>
             </div>
         </section>
-        
         
         <section class="cluster-other-services">
             <h2>Otros servicios que te pueden interesar</h2>
@@ -84,9 +84,9 @@
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/alta.php">
-                        <img src="../../assets/imgs/alta-monotributo.webp" alt="Alta del monotributo">
-                        <h3>Alta Monotributo</h3>
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/gestion.php">
+                        <img src="../../assets/imgs/gestion-monotributo.webp" alt="Gestión del monotributo mensual">
+                        <h3>Gestión del Monotributo</h3>
                     </a>
                 </article>
                 <article>
