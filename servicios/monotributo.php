@@ -58,9 +58,9 @@
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\monotributista-responsable-inscripto.php">
-                        <img src="../assets/imgs/monotributo-promovido.webp" alt="Monotributista a Responsable Inscripto">
-                        <h3>Monotributista a Responsable Inscripto</h3>
+                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\convenio-multilateral.php">
+                        <img src="../assets/imgs/monotributo-promovido.webp" alt="Convenio multilateral">
+                        <h3>Convenio Multilateral</h3>
                     </a>
                 </article>
                 <article>
