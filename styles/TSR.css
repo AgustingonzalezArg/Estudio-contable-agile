@@ -20,19 +20,27 @@ h2 {
     text-align: left;
 }
 
+h3 {
+    font-size: 1.7rem;
+}
+
 p {
     width: 90%;
     margin: auto;
     padding: 1rem 0;
-    font-size: 1rem;
+    font-size: 1.3rem;
     letter-spacing: 1px;
 }
 
 .cta-a {
-    font-size: 1.15rem;
+    font-size: 1.2rem;
     text-align: center;
     margin: 1.5rem;
     padding: 2rem 0;
+}
+
+em {
+    font-size: 1.3rem;
 }
 
 .benefit-product ul, .section-2 ul, .agile-service ul, .section-informational ul {
@@ -43,7 +51,7 @@ p {
 
 .benefit-product li, .section-2 li, .agile-service li, .section-informational li{
     margin: 1rem 0;
-    font-size: 1rem;
+    font-size: 1.2rem;
     letter-spacing: 1px;
 }
 
@@ -80,7 +88,7 @@ p {
     background-color: var(--blue);
     padding: .6rem;
     color: var(--white);
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     border-radius: 7px;
     transition: background-color .1s ease-in;
 }
@@ -91,7 +99,6 @@ p {
 }
 
 .section-2 h3 {
-    font-size: 1.7rem ;
     margin: 2rem 1rem;
     text-align: left;
 }
@@ -232,7 +239,6 @@ blockquote footer {
 
 .cluster-other-services article h3 {
     margin: 1rem 0 0;
-    font-size: 1.2rem;
 }
 
 .cluster-other-services p {

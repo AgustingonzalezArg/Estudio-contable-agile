@@ -1,13 +1,13 @@
 /* General */
 
 h2 {
-    font-size: 2rem;
+    font-size: 2.1rem;
     text-align: center;
     padding-top: 25px;
 }
 
 h3 {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     text-align: center;
     margin: 10px 0;
     color: var(--light-black);
@@ -36,7 +36,7 @@ h3 {
 }
 
 .header p {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     line-height: 1.25;
     margin: .3rem 0px;
     max-width: 80%;
@@ -78,7 +78,7 @@ h3 {
 }
 
 .our-services p {
-    font-size: 1rem;
+    font-size: 1.3rem;
     text-align: center;
     margin: auto;
     width: 80%;
@@ -130,7 +130,7 @@ h3 {
 
 .our-services li {
     margin-bottom: 8px;
-    font-size: .9rem;
+    font-size: 1.1rem;
     letter-spacing: .5px;
 }
 
@@ -186,7 +186,7 @@ h3 {
 }
 
 .monotributo p, .responsable-inscripto p {
-    font-size: .9rem;
+    font-size: 1.2rem;
     padding-bottom: 15px;
     color: var(--white);
 }
@@ -200,7 +200,7 @@ h3 {
     padding-left: 18px;
     padding-bottom: 10px;
     color: var(--white-bold);
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: 600;
 }
 
@@ -282,7 +282,7 @@ h3 {
 }
 
 .other-services p {
-    font-size: .9rem;
+    font-size: 1.1rem;
     color: var(--white);
     margin: 10px 20px;
     text-align: center;
@@ -346,6 +346,7 @@ h3 {
 
 .why-firm__container-text p, .finally-content__container-text p{
     padding: 10px;
+    font-size: 1.3rem;
 }
 
 @media (max-width: 900px) {
@@ -359,7 +360,7 @@ h3 {
     background-color: var(--white);
     padding: .8rem;
     color: var(--dark-blue);
-    font-size: 1rem;
+    font-size: 1.3rem;
     font-weight: 700;
     border-radius: 7px;
     margin-top: 20px;
@@ -420,7 +421,7 @@ h3 {
     padding-left: 1rem;
     color: var(--white);
     transition: all 0.3s ease-in-out;
-    font-size: .95rem;
+    font-size: 1.1rem;
 }
 
 /* Estilos para detalles abiertos */

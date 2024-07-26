@@ -9,10 +9,12 @@
 
 .section-1 p {
     color: var(--white-bold);
+    font-size: 1.3rem;
 }
 
 h1 {
     color: var(--white-bold);
+    font-size: 2.5rem;
 }
 
 

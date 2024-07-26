@@ -24,6 +24,14 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1.3rem;
+}
+
 .TSG-1er-p {
     text-align: center;
 }
@@ -32,7 +40,6 @@ h2 {
     width: 80%;
     margin: auto;
     padding: 1rem 0;
-    font-size: 1.1rem;
     letter-spacing: 1px;
 }
 
@@ -98,7 +105,7 @@ h2 {
 
 .TSG-1er-cluster article h3 {
     margin: 1rem 0 0;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
 }
 
 .TSG-1er-cluster p {
@@ -132,6 +139,10 @@ h2 {
     padding: 1.5rem 0 2rem 1rem;
 }
 
+.TSG-star-product ul li {
+    font-size: 1.2rem;
+}
+
 .TSG-star-product__container-a, .TSG-informational__container-a {
     display: flex;
     justify-content: center;
@@ -143,7 +154,7 @@ h2 {
     background-color: var(--blue);
     padding: .6rem;
     color: var(--white);
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     border-radius: 7px;
     transition: background-color .1s ease-in;
 }
@@ -162,7 +173,6 @@ h2 {
 
 .TSG-informational h3 {
     text-align: center;
-    font-size: 1.5rem;
     color: var(--black);
 }
 
@@ -171,7 +181,7 @@ h2 {
     background-color: var(--blue);
     padding: .6rem;
     color: var(--white);
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     border-radius: 7px;
     transition: background-color .1s ease-in;
     margin: 2rem 0;
