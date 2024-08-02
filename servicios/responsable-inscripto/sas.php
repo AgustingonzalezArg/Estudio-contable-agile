@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
+<head> 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="El paso a paso y toda la informacion que necesitas saber para darte de alta como responsable inscripto.">
+    <meta name="description" content="Las SAS son uno de los modelos de empresa más conocidos e importantes del país. En esta página tenemos toda la información sobre las Sociedades por acciones simplificadas">
     <link rel="stylesheet" href="../../styles/style.css">
     <link rel="stylesheet" href="../../styles/index.css">
     <link rel="stylesheet" href="../../styles/TSR.css">
-    <link rel="stylesheet" href="../../styles/servicios/responsable-inscripto/alta.css">
+    <link rel="stylesheet" href="../../styles/servicios/responsable-inscripto/sas.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
-    <title>Darse de alta como responsable inscripto en 2024</title>
+    <title>SAS - Sociedad por acciones simplificada</title>
 </head>
 <body>
     <header>
@@ -22,72 +22,70 @@
     </header>
     <main>
         <section class="section-1">
-            <h1>Darse de alta como responsable inscripto en 2024</h1>
-            <p>La baja del monotributo se puede realizar en cualquier momento y esto puede deberse a distintas opciones como cesar tus actividades económicas, por renuncia, o porque te vas a pasar a responsable inscripto. Cualquiera sea el motivo podés realizar la baja para evitar generar una deuda con la AFIP. Para que no suceda esto el mes que solicitaste la baja deberías abonarlo y el mes que viene ya se haría efectiva la baja.</p>
-            <div class="container-a">
-                <a href="">Darme de alta ahora</a>
-            </div>
+            <h1>SAS - Sociedad por acciones simplificada</h1>
+            <p>En Argentina hay distintos modelos de empresas, entre ellas se encuentra una de las más utilizadas, las SAS. Si te interesa saber más sobre las Sociedades por Acciones Simplificadas seguí leyendo. </p>
         </section>
-        
-        <section class="section-2">
-            <h2>Como pasar de monotributo a responsable inscripto</h2>
-            <p>El alta como responsable inscripto (autonomo) es un proceso que se lleva a cabo para trabajadores independientes que por algun motivo u otro el regimen de monotributo no les conviene. Esto porque el regimen de monotributo cuenta con varias limitantes como límite de facturacion, limite en espacio utilizado, o menor tipos de facturas que en el regimen de responsable inscripto.</p>
-            <p>Es importante revisar cada uno de las limitantes del monotributo ya que si te excedes de los límites y no relizas el cambio a responsable inscripto, la AFIP lo hará automaticamente y esto genera que si quieres volver al monotributo tendras quie esperar 3 años</p>
-            <p>Para pasar de monotributo a responsable inscripto primero deberias de darte de baja en el monotributo y luego dar de alta el responsable inscripto.</p>
-        </section>
-
-
-
-        
-        <section class="section-informational">
-            <h2>Paso a paso para dar de alta un responsable inscripto</h2>
-            <p>Esta es una guia muy sencilla para que sepas como realizar el paso a paso:</p>
-            <ol>
-                <li>Accede al sitio de AFIP con tu CUIT y Clave Fiscal para despues elegír el servicio "Sistema Registral"</li>
-                <li>En la pantalla, elige la opción "Registro Tributario".</li>
-                <li>Selecciona "Alta de impuestos". El sistema mostrará un listado donde debes seleccionar "IVA" y "Ganancias Persona Física", así como la fecha de inicio. Una vez elegido, haz clic en "Aceptar".</li>
-                <li>Realizando este proceso ya estarias dado de alta en el monotributo.</li>
-            </ol>
-        </section>
-        
-        <section class="agile-service">
-            <img src="../../assets/logo/logoTransparente.webp" alt="logo de estudio contable Agile">
-            <h2>SERVICIO AGILE: Alta monotributo para deliverys y choferes</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente ducimus totam perferendis nam rerum ex, modi provident, ad nemo ipsam expedita. Necessitatibus</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
+        <section class="indice">
+            <h2>Indice de Contenidos</h2>
             <ul>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
+                <li><a href="#que-es-sas">¿Qué es una sociedad por acciones simplificada?</a></li>
+                <li><a href="#caracteristicas-sas">Características de una sociedad por acciones simplificada</a>
+                    <ul>
+                        <li><a href="#ventajas-sas">Ventajas de tener una SAS</a></li>
+                        <li><a href="#desventajas-sas">Desventajas de tener una SAS</a></li>
+                    </ul>
+                </li>
+                <li><a href="#tipos-sas">Tipos de SAS</a>
+                    <ul>
+                        <li><a href="#sas-unipersonal">SAS unipersonal</a></li>
+                        <li><a href="#sas-pluripersonal">SAS Pluripersonal</a></li>
+                        <li><a href="#sas-socios-extranjeros">SAS con Socios extranjeros</a></li>
+                    </ul>
+                </li>
+                <li><a href="#crear-sas-afip">Como crear una Sociedad por acciones simplificada en AFIP</a></li>
             </ul>
-            <div class="container-a">
-                <a href="">Realizar la baja</a>
-            </div>
         </section>
 
         <section class="section-informational">
-            <h2>Ventajas y Beneficios de ser responsable inscripto</h2>
-            <h3>Beneficios de ser responsable inscripto</h3>
-            <p>Para los nuevos responsables inscriptos hay tres beneficios muy buenos que deberian aprovechar al maximo:</p>
-            <ul>
-                <li>A partir de 2025, podrás beneficiarte de una alícuota un 50% más baja.</li>
-                <li>Todas las compras con Factura A que hayas realizado en los últimos 12 meses las vas a poder tomar. Esto te permitirá reducir el monto del IVA (mensual) y del Impuesto a las Ganancias (anual).</li>
-                <li>Paga el IVA a 90 días sin intereses.</li>
-            </ul>
-            <h3>Ventajas de ser responsable inscripto</h3>
-            <p>Los responsables inscripto cuantan con alguna ventajas que los monotributistas no, aquí hay algunas de estas:</p>
-            <ul>
-                <li><strong>Reduccion de IVA</strong>: Los responsables inscriptos pueden descontar el IVA de sus compras, lo que permite reducir el monto a pagar por este impuesto en sus ventas.</li>
-                <li><strong>Formalidad y Credibilidad</strong>: Al estar inscripto, se transmite una imagen de formalidad y profesionalismo, lo que puede aumentar la confianza de los clientes y proveedores.</li>
-                <li><strong>Acceso a Licitaciones y Contratos Grandes</strong>: Muchas empresas y organismos públicos prefieren o exigen trabajar con responsables inscriptos, ya que aseguran un nivel de formalidad y cumplimiento fiscal.</li>
-                <li><strong>Posibilidad de Emitir Facturas de Crédito</strong>: Pueden emitir facturas que, en ciertos casos, les permiten financiarse a través de los clientes al transformar esas facturas en créditos negociables.</li>
-                <li><strong>Deducción de Gastos</strong>: Los responsables inscriptos pueden deducir gastos necesarios para el desarrollo de su actividad, lo que puede reducir la carga tributaria.</li>
-                <li><strong>Mayor Facilidad para Exportar</strong>: Para realizar exportaciones, estar inscripto es casi siempre un requisito, lo que abre oportunidades de expansión a mercados internacionales.</li>
-            </ul>
+            <article>
+                <h2>Como pasar de monotributo a responsable inscripto</h2>
+                <p>El alta como responsable inscripto (autonomo) es un proceso que se lleva a cabo para trabajadores independientes que por algun motivo u otro el regimen de monotributo no les conviene. Esto porque el regimen de monotributo cuenta con varias limitantes como límite de facturacion, limite en espacio utilizado, o menor tipos de facturas que en el regimen de responsable inscripto.</p>
+                <p>Es importante revisar cada uno de las limitantes del monotributo ya que si te excedes de los límites y no relizas el cambio a responsable inscripto, la AFIP lo hará automaticamente y esto genera que si quieres volver al monotributo tendras quie esperar 3 años</p>
+                <p>Para pasar de monotributo a responsable inscripto primero deberias de darte de baja en el monotributo y luego dar de alta el responsable inscripto.</p>
+            </article>
+            <article>
+                <h2>Características de una sociedad por acciones simplificada</h2>
+                <p>Este tipo de empresas son ideales para emprendedores o pequeñas y medianas empresas que buscan tener una estructura legal sin tantos requisitos previos ni términos legales. Estas son las ventajas y las desventajas de tener una SAS sociedad. </p>
+                <p>Recuerda que aunque una SAS puede ser igual en cualquier país no en todos tienen las mismas características. Estas son las ventajas de una SAS en Argentina</p>
+                <h3>Ventajas de tener una SAS</h3>
+                <p><strong>Creación sencilla: </strong>Crear o constituir una SAS es más sencillo que otros tipos de sociedades como Sociedades Anónimas o SRL. Se necesitan menos papeleo y menos presupuesto</p>
+                <p><strong>Capital mínimo: </strong>El capital mínimo es de solamente dos salarios mínimos vitales y móviles</p>
+                <p><strong>Menos costos: </strong>Tiene menos costos que una SRL o una SA</p>
+                <p><strong>Responsabilidad limitada: </strong>El o los dueños de la empresa están protegiendo su capital personal, solo deben responder al capital de la empresa.</p>
+                <p><strong>0 Socios: </strong>Se puede constituir una SAS unipersonal y no necesitas ningún socio para constituirla.</p>
+                <h3>Desventajas de tener una SAS</h3>
+                <p><strong>Limitaciones de Credibilidad: </strong>En algunos mercados, una sociedad simplificada pueden ser percibidas como menos formales o menos sólidas que las sociedades anónimas (SA) o las sociedades limitadas (SRL)</p>
+                <p><strong>Acceso a Financiación Limitado: </strong>Aunque una SAS pueda tener la posibilidad de acceder a un crédito bancario este es mucho más limitado que si fueras una SA o una SRL.</p>
+            </article>
+            <article>
+                <h2>Tipos de SAS</h2>
+                <p>Como ya vimos, las sociedades por acciones limitadas tienen distintas características y estas pueden varias dependiendo el tipo de SAS que decidas constituir. Ahora vamos a ir una por una y explicando sus características.</p>
+                <h3>SAS unipersonal</h3>
+                <p>La SAS unipersonal es una forma de sociedad que puede ser constituida por una única persona física o jurídica. Esta modalidad ofrece la posibilidad de emprender un negocio sin la necesidad de contar con otros socios, manteniendo el control total sobre la empresa. Así que si eres un emprendedor sin socios y buscas una estructura legal para proteger tu patrimonio esta es tu opción ideal.</p>
+                <h3>SAS Pluripersonal</h3>
+                <p>La SAS pluripersonal, como su nombre lo dice, es una sociedad formada por dos o más accionistas, quienes pueden ser personas físicas o jurídicas. Este tipo de SAS es ideal para proyectos en los que se busca compartir responsabilidades, recursos y conocimientos entre varios socios.</p>
+                <h3>SAS con Socios extranjeros</h3>
+                <p>La SAS con socios extranjeros es una modalidad que permite la participación de inversores o socios de otros países, facilitando la internacionalización y la atracción de capital extranjero. Esta opción es clave para personas que buscan captar algún tipo de capital extranjero o trabajar codo a codo con alguien del exterior.</p>
+            </article>
+            <article>
+                <h3>Como crear una Sociedad por acciones simplificada en AFIP</h3>
+                <p>Constituir una SAS es un proceso que se puede hacer por instrumento público o privado. Ya sea por instrumento público o privado, requiere cumplir con determinadas formalidades. Si se opta por un instrumento privado, las firmas deben estar certificadas por un juzgado, escribanía, banco u otra autoridad competente del registro público correspondiente. Además, es posible constituirse por medios digitales con firma digital. Posteriormente, el instrumento de constitución debe ser enviado al Registro Público para su inscripción.</p>
+            </article>
+            <div class="container-a">
+                <a href="">Constituir una SAS</a>
+            </div>
         </section>
-        
+
         <section class="cluster-other-services">
             <h2>Otros servicios que te pueden interesar</h2>
             <div>

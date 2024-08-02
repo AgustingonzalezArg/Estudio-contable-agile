@@ -11,7 +11,7 @@ html, body {
 h1 {
     font-size: 2.5rem;
     margin: 1.5rem 1rem;
-    color: var(--black);
+    color: var(--white-bold);
     text-align: center;
     
 }
@@ -63,6 +63,21 @@ em {
     font-size: 1.2rem;
     letter-spacing: 1px;
 }
+
+/* Section 1 */
+
+.section-1 {
+    background-position: center;
+    min-height: 70vh;
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-top: 1rem;
+}
+
+.section-1 p {
+    color: var(--white-bold);
+}
+
 /* Indice */
 
 .indice {
@@ -264,6 +279,7 @@ blockquote footer {
 }
 
 .cluster-services article a {
+    background-image: linear-gradient(var(--transparent-black), #7c7c7c8a), url(../assets/imgs/servicios.webp);
     background-repeat: no-repeat;
     background-position:left;
     background-size: cover;
