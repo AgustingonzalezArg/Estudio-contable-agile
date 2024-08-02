@@ -4,6 +4,9 @@ main {
     overflow: hidden;
 }
 
+html, body {
+    scroll-behavior: smooth;
+}
 
 h1 {
     font-size: 2.5rem;
@@ -22,6 +25,12 @@ h2 {
 
 h3 {
     font-size: 1.7rem;
+    margin-top: 2.5rem;
+}
+
+h4 {
+    font-size: 1.4rem;
+    margin: 1rem;
 }
 
 p {
@@ -53,6 +62,45 @@ em {
     margin: 1rem 0;
     font-size: 1.2rem;
     letter-spacing: 1px;
+}
+/* Indice */
+
+.indice {
+    background-color: var(--dark-blue);
+    padding: 1.3rem;
+    margin: 1rem .5rem;
+}
+
+.indice h2 {
+    color: var(--white-bold);
+}
+
+.indice ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.indice ul li {
+    margin: .5rem .2rem;
+}
+
+.indice ul li a {
+    text-decoration: none;
+    color: var(--white-bold);
+}
+
+.indice ul li a:hover {
+    color: var(--white);
+}
+
+.indice ul li ul {
+    margin-left: 20px;
+    color: var(--white);
+}
+
+.indice ul li ul li ul {
+    margin-left: 20px;
+    color: var(--light-grey);
 }
 
 /* Section 2 */
