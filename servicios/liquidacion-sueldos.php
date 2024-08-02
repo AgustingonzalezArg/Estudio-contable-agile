@@ -64,7 +64,7 @@
                 <li>Firma de ambas partes.</li>
             </ul>
         </section>
-        <section>
+        <section class="section-informational">
             <h2>Liquidaciones de sueldo y jornales más comunes</h2>
             <p>Como ya dijimos, es esencial realizar una buena liquidación de sueldos y es importante saber que estás varía  según el tipo de trabajo y rubro, como el tipo de circunstancia. Por eso en esta sección, exploraremos las liquidaciones de sueldos más comunes, proporcionando una guía para distintos sectores y situaciones laborales.</p>
             <p>Contar con una correcta asistencia en esta área es crucial para realizar una correcta retribución de haberes y el cumplimiento correcto de la normativa. </p>

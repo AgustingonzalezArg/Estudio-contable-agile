@@ -1,0 +1,20 @@
+.section-1 {
+    background-image: linear-gradient(var(--transparent-black), var(--transparent-black)), url(../../assets/imgs/declaracion-bienes-personales.webp);
+    background-position:bottom;
+    min-height: 70vh;
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-top: 1rem;
+}
+
+.cluster-services article a {
+    background-image: linear-gradient(var(--transparent-black), #7c7c7c8a), url(../../assets/imgs/servicios.webp);
+}
+
+.section-1 p {
+    color: var(--white-bold);
+}
+
+h1 {
+    color: var(--white-bold);
+}
