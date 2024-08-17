@@ -44,23 +44,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h2>¿Qué es una liquidación de sueldo?</h2>
             <p>Una liquidación de sueldo, también conocida como recibo de sueldo o recibo de nómina, es un documento que detalla el pago que un empleado recibe de una organización por sus servicios laborales. Este documento es personal y debe incluir los datos personales del empleado. Su validez depende de la firma del trabajador, la cual confirma que el pago se realizó de manera efectiva y que el trabajador está conforme. La importancia de la liquidación de sueldo radica en que es una constancia del pago de salarios y notifica al empleado sobre cualquier deducción, como créditos o impuestos retenidos.</p> 
         </section>
-        
-        <section class="agile-service">
-            <img src="../assets/logo/logoTransparente.webp" alt="logo de estudio contable Agile">
-            <h2>SERVICIO AGILE: Alta monotributo para deliverys y choferes</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente ducimus totam perferendis nam rerum ex, modi provident, ad nemo ipsam expedita. Necessitatibus</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <ul>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-            </ul>
-            <div class="container-a">
-                <a href="">Realizar Liquidaciones</a>
-            </div>
-        </section>
 
         <section class="section-informational">
             <h2>Partes clave de una liquidación</h2>
