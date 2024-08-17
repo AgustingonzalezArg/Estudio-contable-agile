@@ -45,23 +45,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <p>El monotributo unificado simplifica la carga administrativa al agrupar trámites nacionales y provinciales en un único pago de impuestos. Se paga una cuota mensual fija y no se aplican retenciones en cuentas bancarias ni en tarjetas de débito y crédito. Además, elimina la obligación de presentar la declaración jurada mensual y anual de ingresos brutos.</p>
             <p>Esta informacion fue obtenida de la pagina de AFIP</p>
         </section>
-        
-        <section class="agile-service">
-            <img src="../../assets/logo/logoTransparente.webp" alt="logo de estudio contable Agile">
-            <h2>SERVICIO AGILE: Alta monotributo para deliverys y choferes</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente ducimus totam perferendis nam rerum ex, modi provident, ad nemo ipsam expedita. Necessitatibus</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <ul>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-            </ul>
-            <div class="container-a">
-                <a href="">Unificar mi monotributo</a>
-            </div>
-        </section>
 
         <section class="section-informational">
             <h2>¿Qué incluye el pago del monotributo unificado?</h2>

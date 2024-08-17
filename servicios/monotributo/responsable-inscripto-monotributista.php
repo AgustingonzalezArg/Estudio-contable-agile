@@ -51,23 +51,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li>Ahora, si subiste a responsable inscripto sin ser excluido automáticamente del monotributo podés realizar la gestión para volver al monotributo sin problema.</li>
             </ul>
         </section>
-
-        <section class="agile-service">
-            <img src="../../assets/logo/logoTransparente.webp" alt="logo de estudio contable Agile">
-            <h2>SERVICIO AGILE: Alta monotributo para deliverys y choferes</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente ducimus totam perferendis nam rerum ex, modi provident, ad nemo ipsam expedita. Necessitatibus</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <ul>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-            </ul>
-            <div class="container-a">
-                <a href="">Pasar a monotributista</a>
-            </div>
-        </section>
         
         <section class="section-informational">
             <h2>Pasos para que un responsable inscripto vuelva al monotributo</h2>

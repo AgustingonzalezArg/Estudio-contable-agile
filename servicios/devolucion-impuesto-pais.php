@@ -67,23 +67,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </section>
 
-        <section class="agile-service">
-            <img src="../assets/logo/logoTransparente.webp" alt="logo de estudio contable Agile">
-            <h2>SERVICIO AGILE: Devolución impuesto pais 2023</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente ducimus totam perferendis nam rerum ex, modi provident, ad nemo ipsam expedita. Necessitatibus</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <ul>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-            </ul>
-            <div class="container-a">
-                <a href="">Gestionar mi devolución</a>
-            </div>
-        </section>
-
         <section class="section-informational step-for-step">
             <h2>Devolución impuesto país paso a paso</h2>
             <ul>

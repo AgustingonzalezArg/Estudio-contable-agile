@@ -44,23 +44,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h2>¿Se puede hacer un convenio multilateral para el monotributo?</h2>
             <p>Si, específicamente el convenio multilateral fue creado para aquellos pequeños contribuyentes (monotributistas) que quieran facturar en más de una provincia. Esto no es así para aquellos que son responsables inscriptos, ya que se gestiona de otra manera.</p>    
         </section>
-        
-        <section class="agile-service">
-            <img src="../../assets/logo/logoTransparente.webp" alt="logo de estudio contable Agile">
-            <h2>SERVICIO AGILE: Alta monotributo para deliverys y choferes</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente ducimus totam perferendis nam rerum ex, modi provident, ad nemo ipsam expedita. Necessitatibus</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti expedita molestias repellendus quisquam pariatur sed! Quaerat accusantium incidunt, illum fugiat laboriosam modi fuga, corrupti, inventore fugit voluptatum quia quis vel!</p>
-            <ul>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit, animi deleniti obcaeca</li>
-            </ul>
-            <div class="container-a">
-                <a href="">Asesorarme ahora</a>
-            </div>
-        </section>
 
         <section class="section-informational">
             <h2>¿Cómo realizar la liquidación de un convenio multilateral?</h2>

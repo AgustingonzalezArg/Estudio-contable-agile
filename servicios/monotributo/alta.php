@@ -79,14 +79,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
         </section>
         
-        <section class="agile-service">
-            <img src="../../assets/logo/logoTransparente.webp" alt="logo de estudio contable Agile">
-            <h2>SERVICIO AGILE: Alta monotributo Afip</h2>
-            <div class="container-a">
-                <a href="">Darme de alta</a>
-            </div>
-        </section>
-        
         <section class="comparative-table">
             <h2>Comparar alta monotributo de otros estudios contables con estudio Agile</h2>
             <p>//ACA VA UNA TABLA COMPARATIVA</p>
