@@ -1,0 +1,284 @@
+h1 {
+    padding-top: 7rem;
+    text-align: center;
+    margin-bottom: 3rem;
+    font-size: 1.9rem;
+    color: var(--white-bold);
+}
+
+
+h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 1.7rem;
+    margin: 1.5rem 0 1.1rem 0;
+    padding: 0;
+    color: var(--white-bold);
+}
+
+p {
+    font-size: 1.25rem;
+}
+
+@media (min-width: 769px) {
+   h1 {
+    font-size: 2.4rem;
+    } 
+
+    h2 {
+        font-size: 2.2rem;
+    }
+
+    p {
+        font-size: 1.5rem;
+    }
+}
+
+.default-view, .social-prof, .work, .faq {
+    padding: 0% 8% 5% 8%;
+}
+
+/* HEADER */
+
+.logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.logo img {
+    width: 8rem;
+}
+
+
+/* Default View */
+
+.default-view {
+    background-image: linear-gradient(var(--transparent-black), var(--transparent-black)), url(../assets/imgs/devolucion-impuesto-pais.webp);;
+    background-clip: padding-box; 
+}
+
+.default-view p {
+    font-size: 1.3rem;
+    margin-bottom: .6rem;
+    color: var(--white-bold);
+}
+
+.default-view ul {
+    list-style: none; /* Eliminamos la decoración predeterminada */
+    padding-left: 0;  /* Eliminamos el padding izquierdo */
+    margin: .5rem 0;        /* Eliminamos el margen */
+}
+
+.default-view ul li {
+    position: relative;
+    font-size: 1.3rem;
+    font-weight: 700;
+    padding-left: 20px; /* Espacio para la tilde */
+    margin-bottom: 10px; /* Espacio entre elementos */
+    color: var(--white);
+}
+
+.default-view ul li::before {
+    content: '✔'; /* Aquí puedes cambiar el símbolo */
+    position: absolute;
+    left: 0;
+    color: #4CAF50; /* Cambia el color de la tilde */
+    font-size: 1rem; /* Cambia el tamaño de la tilde */
+}
+
+.container-a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2.5rem 0;
+}
+
+.container-a a {
+    padding: 1.2rem 2.7rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--white-bold);
+    background-color: var(--dark-blue);
+    border-radius: 1rem;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+@media (min-width: 769px) {
+    .default-view p {
+        margin: 1.5rem 22.5%;
+        font-size: 1.6rem;
+    }
+
+    .container-ul {
+        display: flex;
+        align-items: start;
+        justify-content: start;
+        margin: 0 22.5%;
+    }
+}
+
+/* Social Prof */
+
+.social-prof h2, .work h2 {
+    color: var(--blue);
+}
+
+.clientes {
+    margin-top: 6rem;
+}
+
+/* Estilos generales */
+.gallery {
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.gallery-slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+/* Estilos para las imágenes */
+.gallery-item {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Botones para la navegación */
+button.prev, button.next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.192);
+    border: none;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 100;
+}
+
+button.prev {
+    left: 10px;
+}
+
+button.next {
+    right: 10px;
+}
+
+/* Estilo para dispositivos móviles y tabletas */
+@media (max-width: 768px) {
+    .gallery-slider {
+        transform: translateX(0);
+    }
+}
+
+/* Estilo para ordenadores */
+@media (min-width: 769px) {
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        gap: 10px;
+    }
+
+    .gallery-slider {
+        display: contents;
+    }
+
+    .gallery-item {
+        min-width: unset;
+        box-sizing: border-box;
+    }
+
+    button.prev, button.next {
+        display: none;
+    }
+}
+
+
+/* WORK */
+
+.work p {
+    text-align: center;
+    letter-spacing: .5px;
+}
+
+/* FAQS */
+
+.faq {
+    background-color: var(--dark-blue);
+    padding: 4rem 2rem;
+}
+
+.faq-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.faq-item {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+}
+
+.faq-question {
+    background-color: var(--white);
+    color: var(--dark-blue);
+    padding: 15px;
+    cursor: pointer;
+    position: relative;
+    font-size: 1.2em;
+}
+
+.faq-question::after {
+    content: '+';
+    position: absolute;
+    top: 7px;
+    right: 20px;
+    font-size: 1.5em;
+    transition: transform 0.3s;
+}
+
+.faq-item.active .faq-question::after {
+    content: '-';
+    transform: rotate(180deg);
+}
+
+.faq-answer {
+    display: none;
+    padding: 15px;
+    background-color: var(--white);
+    color: #333;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+.faq-item.active .faq-answer {
+    display: block;
+}
+
+
+.faq .container-a a {
+    background-color: var(--white);
+    color: var(--dark-blue);
+}
+
+.p-importante {
+    font-size: 1.2;
+    font-weight: 700;
+    text-align: center;
+    color: var(--white-bold);
+}
