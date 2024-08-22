@@ -10,6 +10,6 @@ include 'config.php';
     <title>Logo</title>
 </head>
 <body>
-        <a href="/" class="logo"><img src="<?php echo $base_url; ?>assets/logo/logoTransparente.webp" alt="Logo de Estudio Contable Agile"></a>
+        <a href="/" class="logo"><img src="<?php echo $base_url; ?>/assets/logo/logoTransparente.webp" alt="Logo de Estudio Contable Agile"></a>
 </body>
 </html>
