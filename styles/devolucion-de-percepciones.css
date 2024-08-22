@@ -56,7 +56,7 @@ p {
 /* Default View */
 
 .default-view {
-    background-image: linear-gradient(var(--transparent-black), var(--transparent-black)), url(../assets/imgs/devolucion-impuesto-pais.webp);;
+    background-image: linear-gradient(var(--transparent-black-2), var(--transparent-black-2)), url(../assets/imgs/devolucion-impuesto-pais.webp);;
     background-clip: padding-box; 
 }
 
@@ -105,12 +105,20 @@ p {
     border-radius: 1rem;
     letter-spacing: 1px;
     text-decoration: none;
+    transition: background-color .15s ease-in, transform .15s ease-in-out ;
+
+}
+
+.container-a a:hover {
+    transform: scale(1.1);
+    background-color: var(--blue);
 }
 
 @media (min-width: 769px) {
     .default-view p {
         margin: 1.5rem 22.5%;
         font-size: 1.6rem;
+        text-align: center;
     }
 
     .container-ul {
@@ -124,7 +132,7 @@ p {
 /* Social Prof */
 
 .social-prof h2, .work h2 {
-    color: var(--blue);
+    color: var(--dark-blue);
 }
 
 .clientes {
