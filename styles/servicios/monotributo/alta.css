@@ -1,3 +1,12 @@
+.section-1 {
+    background-image: linear-gradient(var(--transparent-black), var(--transparent-black)), url(../../../assets/imgs/alta-monotributo.webp);
+    background-position:bottom;
+    min-height: 70vh;
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-top: 1rem;
+}
+
 .cluster-services article a {
-    background-image: linear-gradient(var(--transparent-black), #7c7c7c8a), url(../../assets/imgs/servicios.webp);
+    background-image: linear-gradient(var(--transparent-black), #7c7c7c8a), url(../../../assets/imgs/servicios.webp);
 }

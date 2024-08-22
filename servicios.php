@@ -40,37 +40,37 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h2>Nuestros servicios más solicitados</h2>
             <div>
                 <article>
-                    <a href="">
+                    <a href="<?php echo $base_url; ?>/servicios/monotributo/alta.php">
                         <img src="./assets/imgs/alta-monotributo.webp" alt="Alta o inscripción de monotributo">
                         <h3>Alta Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="<?php echo $base_url; ?>/servicios/monotributo/recategorizacion.php">
                         <img src="./assets/imgs/recategorizacion-monotributo.webp" alt="Recategorizacion de monotributo">
                         <h3>Recategorización Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="<?php echo $base_url; ?>/servicios/responsable-inscripto/sas.php">
                         <img src="./assets/imgs/creacion-sas.webp" alt="Creación de SAS - Sociedad por acciones Simplificadas">
                         <h3>Creación de SAS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="<?php echo $base_url; ?>/servicios/monotributo/gestion.php">
                         <img src="./assets/imgs/gestion-monotributo.webp" alt="Gestión del monotributo mensual">
                         <h3>Gestión del Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="<?php echo $base_url; ?>/servicios/responsable-inscripto/gestion.php">
                         <img src="./assets/imgs/gestion-responsable-inscripto.webp" alt="Gestión de responsable inscripto mensual">
                         <h3>Gestión Responsable Inscripto</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
+                    <a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">
                         <img src="./assets/imgs/gestion-devolucion-impuesto-pais.webp" alt="Gestion de devolución de impuesto país">
                         <h3>Gestión devolución impuesto País</h3>
                     </a>
