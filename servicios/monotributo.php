@@ -39,55 +39,55 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <p class="pp">Hace clic en el servicio que te interese para mas información</p>
             <div>
                 <article>
-                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\alta.php">
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/alta.php">
                         <img src="../assets/imgs/alta-monotributo.webp" alt="Alta o inscripción de monotributo">
                         <h3>Inscripción - Alta Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\recategorizacion.php">
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/recategorizacion.php">
                         <img src="../assets/imgs/recategorizacion-monotributo.webp" alt="Recategorizacion de monotributo">
                         <h3>Recategorización Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\deuda.php">
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/deuda.php">
                         <img src="../assets/imgs/deuda.webp" alt="Eliminacion de deuda del monotributo">
                         <h3>Deudas Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\gestion.php">
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/gestion.php">
                         <img src="../assets/imgs/gestion-monotributo.webp" alt="Gestión del monotributo mensual">
                         <h3>Gestion de Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\responsable-inscripto-monotributista.php">
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/responsable-inscripto-monotributista.php">
                         <img src="../assets/imgs/apreton_manos.webp" alt="De responsable inscripto a monotributista">
                         <h3>Responsable Inscripto a Monotributista</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\convenio-multilateral.php">
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/convenio-multilateral.php">
                         <img src="../assets/imgs/monotributo-promovido.webp" alt="Convenio multilateral">
                         <h3>Convenio Multilateral</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\pedidosya.php">
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/pedidosya.php">
                         <img src="../assets/imgs/PedidosYa.webp" alt="Alta y gestion de PedidosYA - Uber - rappi">
                         <h3>PedidosYA - Uber - Rappi</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\baja.php">
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/baja.php">
                         <img src="../assets/imgs/baja-monotributo.webp" alt="Baja del monotributo">
                         <h3>Baja Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost\estudio_contable_agile\servicios\monotributo\unificado.php">
+                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/unificado.php">
                         <img src="../assets/imgs/monotributo-unificado.webp" alt="Monotributo unificado">
                         <h3>Monotributo Unificado</h3>
                     </a>

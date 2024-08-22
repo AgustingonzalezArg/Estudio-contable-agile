@@ -67,7 +67,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost\estudio_contable_agile\servicios\devolucion-impuesto-pais.php">
+                    <a href="http://localhost/estudio_contable_agile/servicios/devolucion-impuesto-pais.php">
                         <img src="./assets/imgs/gestion-devolucion-impuesto-pais.webp" alt="Gestion de devolución de impuesto país">
                         <h3>Gestión devolución impuesto País</h3>
                     </a>
@@ -103,7 +103,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost\estudio_contable_agile\servicios\devolucion-impuesto-pais.php">
+                    <a href="http://localhost/estudio_contable_agile/servicios/devolucion-impuesto-pais.php">
                         <h3>GESTIÓN DEVOLUCIÓN IMPUESTO PAIS</h3>
                     </a>
                 </article>
