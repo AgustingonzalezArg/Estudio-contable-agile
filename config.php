@@ -1,3 +1,3 @@
 <?php
-$base_url = "https://estudioagile.com/";
+$base_url = "https://estudioagile.com";
 ?>
