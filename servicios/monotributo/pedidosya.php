@@ -1,3 +1,6 @@
+<?php
+include 'config.php';
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -61,7 +64,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p>Proporciona una dirección de correo electrónico y un número de teléfono vigente.</p>
                 </li>
             </ol>
-            <p>Si quieres saber más sobre monotributo, sus beneficios, escalas, valores y más, <a href="http://localhost/estudio_contable_agile/servicios/monotributo.php">ingresa aquí</a>.</p>
+            <p>Si quieres saber más sobre monotributo, sus beneficios, escalas, valores y más, <a href="<?php echo $base_url; ?>/servicios/monotributo.php">ingresa aquí</a>.</p>
         </section>
         
         <section class="section-informational">
@@ -79,7 +82,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li>Obra social y los aportes jubilatorios</li>
                 <li>Menos obligaciones administrativas</li>
             </ul>
-            <p>Informate mas sobre este tema <a href="http://localhost/estudio_contable_agile/servicios/monotributo/alta.php">aquí</a></p>
+            <p>Informate mas sobre este tema <a href="<?php echo $base_url; ?>/servicios/monotributo/alta.php">aquí</a></p>
         </section>
         
         
@@ -87,19 +90,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h2>Otros servicios que te pueden interesar</h2>
             <div>
                 <article>
-                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/recategorizacion.php">
+                    <a href="<?php echo $base_url; ?>/servicios/monotributo/recategorizacion.php">
                         <img src="../../assets/imgs/recategorizacion-monotributo.webp" alt="Recategorizacion de monotributo">
                         <h3>Recategorización Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo/gestion.php">
+                    <a href="<?php echo $base_url; ?>/servicios/monotributo/gestion.php">
                         <img src="../../assets/imgs/gestion-monotributo.webp" alt="Gestión del monotributo mensual">
                         <h3>Gestión del Monotributo</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost/estudio_contable_agile/servicios/devolucion-impuesto-pais.php">
+                    <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
                         <img src="../../assets/imgs/creacion-sas.webp" alt="Creación de SAS - Sociedad por acciones Simplificadas">
                         <h3>Devolución impuesto pais</h3>
                     </a>
@@ -111,42 +114,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h2>Todos nuestros servicios</h2>
             <div>
                 <article>
-                    <a href="http://localhost/estudio_contable_agile/servicios/monotributo.php">
+                    <a href="<?php echo $base_url; ?>/servicios/monotributo.php">
                         <h3>MONOTRIBUTO</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost/estudio_contable_agile/servicios/responsable-inscripto.php">
+                    <a href="<?php echo $base_url; ?>/servicios/responsable-inscripto.php">
                         <h3>RESPONSABLES INSCRIPTOS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost/estudio_contable_agile/servicios/liquidacion-sueldos.php">
+                    <a href="<?php echo $base_url; ?>/servicios/liquidacion-sueldos.php">
                         <h3>LIQUIDACIÓN DE SUELDOS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost/estudio_contable_agile/servicios/empleadas-domesticas.php">
+                    <a href="<?php echo $base_url; ?>/servicios/empleadas-domesticas.php">
                         <h3>SERVICIOS EMP. DOMESTICAS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost/estudio_contable_agile/servicios/bienes-personales.php">
+                    <a href="<?php echo $base_url; ?>/servicios/bienes-personales.php">
                         <h3>BIENES PERSONALES</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost/estudio_contable_agile/servicios/devolucion-impuesto-pais.php">
+                    <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
                         <h3>GESTIÓN DEVOLUCIÓN IMPUESTO PAIS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost/estudio_contable_agile/servicios/declaracion-ganacias.php">
+                    <a href="<?php echo $base_url; ?>/servicios/declaracion-ganacias.php">
                         <h3>DECLARACIÓN DE GANANCIAS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="http://localhost/estudio_contable_agile/servicios/convenio-multilateral.php">
+                    <a href="<?php echo $base_url; ?>/servicios/convenio-multilateral.php">
                         <h3>CONVENIO MULTILATERAL</h3>
                     </a>
                 </article>

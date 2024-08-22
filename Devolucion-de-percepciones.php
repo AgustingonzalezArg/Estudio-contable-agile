@@ -1,3 +1,6 @@
+<?php
+include 'config.php';
+?>
 <!DOCTYPE html>
 <html lang="es">
     <head>
@@ -24,7 +27,7 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <header>
-    <a href="https://www.estudioagile.com" class="logo"><img src="http://localhost/estudio_contable_agile/assets/logo/logoTransparente.webp" alt="Logo de Estudio Contable Agile"></a>
+    <a href="https://www.estudioagile.com" class="logo"><img src="<?php echo $base_url; ?>/assets/logo/logoTransparente.webp" alt="Logo de Estudio Contable Agile"></a>
     </header>
 
     <main>

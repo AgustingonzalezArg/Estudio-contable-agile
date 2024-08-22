@@ -1,3 +1,6 @@
+<?php
+include 'config.php';
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -55,7 +58,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li>Empleadas domésticas</li>
                 <li>Creacion de SAS</li>
             </ul>
-            <p>Si quire ver todos nuestros servicios disponibles para ti puedes ingresar <a href="http://localhost/estudio_contable_agile/servicios.php">Aquí</a>.</p>
+            <p>Si quire ver todos nuestros servicios disponibles para ti puedes ingresar <a href="<?php echo $base_url; ?>/servicios.php">Aquí</a>.</p>
         </section>
 
         <section>
