@@ -122,23 +122,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </article>
             </div>
         </section>
-        <section class="TSG-star-product">
-            <h2>Gestión de Responsables Incriptos</h2>
-            <div class="TSG-star-product__container">
-                <img src="./assets/imgs/gestion-monotributo.webp" alt="Gestión mensual de responsable inscripto">   
-                    <p>Realizamos Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio libero quisquam repellat quia expedita maiores enim voluptates, itaque beatae earum consectetur veniam. Consequatur illum atque beatae praesentium ipsa magnam vitae? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, distinctio ex quo sequi voluptatem illum fugit expedita inventore? Nulla provident officiis porro dolores minima, magni dolorum doloribus facilis atque ea. la gestion impositiva Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate quaerat voluptas quisquam eligendi ex dolore repellendus, error dignissimos quidem? Soluta corporis laborum asperiores alias voluptatibus eveniet vitae provident iusto rem!</p>
-                    <ul>
-                        <li>dlfnflesfnksdfn</li>
-                        <li>rpignkdvkdfnñsd</li>
-                        <li>nkgldsfklkfgkgsjñkdsgñjgdñljgñljgdgsdñlj</li>
-                        <li>sjldfbdlfndsv</li>
-                        <li>lsnrflksnflsdnvlvdnñskñr</li>
-                    </ul> 
-            </div>
-            <div class="TSG-star-product__container-a">
-                <a href="">Saber más ahora</a>
-            </div>
-        </section>
         <section class="TSG-informational">
             <article>
                 <h2>¿Qué servicios ofrece un estudio contable?</h2>

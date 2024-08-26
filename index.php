@@ -54,7 +54,7 @@ include 'config.php';
         },
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+543512266150",
+            "telephone": "+543517725033",
             "contactType": "Customer Service",
             "areaServed": "AR",
             "availableLanguage": ["Spanish"]
@@ -75,7 +75,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h1>Estudio Contable Agile</h1>
             <p>Somos un estudio contable con sede en córdoba capital especializados en servicios impositivos y laborales para empresas, pymes, monotributistas y pequeños negocios.</p>
             <p>También ofrecemos nuestros servicios de gestión de forma online y a distancia.</p>
-            <a href="https://api.whatsapp.com/send?phone=543512266150&text=Hola%20me%20interesa%20obtener%20mas%20informaci%C3%B3n%20sobre" target="_blank">
+            <a href="https://api.whatsapp.com/send?phone=543517725033&text=Hola%20me%20interesa%20obtener%20mas%20informaci%C3%B3n%20sobre" target="_blank">
                 Asesorate Ahora
             </a>
     </header>
@@ -209,7 +209,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </ul>
                 <p>Para más información sobre el monotributo puedes hacer <a class="clic-here" href="monotributo.php">Clic Aquí</a> o contactarnos directamente sin ningún compromiso.</p>
                 <div class="container-wsp">
-                    <a class="wsp" href="https://api.whatsapp.com/send?phone=543512266150&text=Hola%20me%20interesa%20obtener%20mas%20informaci%C3%B3n%20sobre"
+                    <a class="wsp" href="https://api.whatsapp.com/send?phone=543517725033&text=Hola%20me%20interesa%20obtener%20mas%20informaci%C3%B3n%20sobre"
                         target="_blank">
                         Contactarnos por WhatsApp
                     </a>
@@ -239,7 +239,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </ul>
                 <p>Si te interesa saber más sobre nuestros servicios para los responsables inscriptos y toda la información relacionada has <a class="clic-here" href="responsables-inscriptos.php">Clic Aquí</a> o contactarnos directamente sin ningún compromiso.</p>
                 <div class="container-wsp">
-                    <a class="wsp" href="https://api.whatsapp.com/send?phone=543512266150&text=Hola%20me%20interesa%20obtener%20mas%20informaci%C3%B3n%20sobre"
+                    <a class="wsp" href="https://api.whatsapp.com/send?phone=543517725033&text=Hola%20me%20interesa%20obtener%20mas%20informaci%C3%B3n%20sobre"
                         target="_blank">
                         Contactarnos por WhatsApp
                     </a>
@@ -334,7 +334,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </article>
             <div class="container-get-advice-now">
-                <a class="get-advice-now" href="https://api.whatsapp.com/send?phone=543512266150&text=Hola%20me%20interesa%20obtener%20mas%20informaci%C3%B3n%20sobre"
+                <a class="get-advice-now" href="https://api.whatsapp.com/send?phone=543517725033&text=Hola%20me%20interesa%20obtener%20mas%20informaci%C3%B3n%20sobre"
                     target="_blank">
                     Asesorate Ahora
                 </a>
@@ -394,7 +394,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </form>
             <p>Escribirnos al WhatsApp para una mejor comunicación</p>
             <div class="container-get-advice-now">
-                <a class="get-advice-now" href="https://api.whatsapp.com/send?phone=543512266150&text=Hola%20me%20interesa%20obtener%20mas%20informaci%C3%B3n%20sobre" 
+                <a class="get-advice-now" href="https://api.whatsapp.com/send?phone=543517725033&text=Hola%20me%20interesa%20obtener%20mas%20informaci%C3%B3n%20sobre" 
                     target="_blank">
                     Contactarnos por WhatsApp
                 </a>

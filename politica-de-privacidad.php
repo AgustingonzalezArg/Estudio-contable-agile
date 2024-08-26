@@ -58,7 +58,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <h2>Contáctanos</h2>
         <p>Si tienes alguna pregunta sobre esta política de privacidad, las prácticas de este sitio, o tus tratos con este sitio, por favor contáctanos en:</p>
-        <p><strong>Estudio Contable Agile</strong><br>Agustín Gonzalez<br>Email: contacto@estudioagile.com<br>Teléfono: +54 351 2266 150</p>
+        <p><strong>Estudio Contable Agile</strong><br>Agustín Gonzalez<br>Email: contacto@estudioagile.com<br>Teléfono: +54 3517725033</p>
     </div>
     <?php include './includes/footer.php'?>
     </main>
