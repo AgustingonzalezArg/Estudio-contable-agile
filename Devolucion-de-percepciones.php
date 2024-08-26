@@ -37,6 +37,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="container-ul">
                 <ul>
                     <li>Eres monotributista.</li>
+                    <li>Sos Responsable Inscripto y tenés que pagar ganancias y bienes personales.</li>
                     <li>Sos empleado y no tenes que pagar ganancias.</li>
                     <li>No estás inscripto en nada o trabajas en negro.</li>
                 </ul>
