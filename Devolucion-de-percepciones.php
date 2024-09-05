@@ -32,14 +32,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <main>
         <section class="default-view">
-            <h1>Obtén la devolución del Impuesto PAÍS y recupera tu dinero </h1>
-            <p>Te ayudamos a recuperar el dinero si:</p>
+            <h1>Realizamos la devolución del Impuesto PAÍS y recuperamos tu dinero </h1>
+            <p>Recuperamos tu dinero si:</p>
             <div class="container-ul">
                 <ul>
-                    <li>Eres monotributista.</li>
-                    <li>Sos Responsable Inscripto y tenés que pagar ganancias y bienes personales.</li>
-                    <li>Sos empleado y no tenes que pagar ganancias.</li>
-                    <li>No estás inscripto en nada o trabajas en negro.</li>
+                    <li>Compraste dolares.</li>
+                    <li>Pagas Netflix, Spotify, HBO y otras plataformas.</li>
+                    <li>Compraste cosas en el exterior (Amazon, Ali express).</li>
+                    <li>Viajaste al exterior.</li>
+                    <li>Realizas anuncios en Google Ads o Facebook Ads.</li>
                 </ul>
             </div>
             <div class="container-a">
@@ -51,7 +52,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li>Te indicamos cuanto te debe la AFIP <b>sin costo</b></li>
                     <li>Te asistimos en todo el proceso</li>
                     <li>El costo de nuestro servicio siempre es más bajo que lo que te debe la AFIP</li>
-                    <li>Resolvemos todos los inconvenientes que puedan surgir</li>
+                    <li>Nos encargamos de todos los problemas, para que tú solo te preocupes por recibir tu dinero</li>
                     <li>Te indicamos si tenés alguna deuda con AFIP</li>
                 </ul>
             </div>
