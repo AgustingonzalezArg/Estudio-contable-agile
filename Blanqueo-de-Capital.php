@@ -19,7 +19,7 @@ include 'config.php';
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
-    <title>Devolucion de Percepciones</title>
+    <title>Blanqueo de Capitales</title>
 </head>
 <body>
     <!-- Google Tag Manager (noscript) -->
@@ -44,7 +44,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </ul>
             </div>
             <div class="container-a">
-                <a href="https://api.whatsapp.com/send?phone=543517725033&text=Hola%20me%20interesa%20obtener%20mas%20información%20sobre%20como%20recuperar%20mi%20dinero%20de%20percepciones">Contactanos al WhatsApp</a>
+                <a href="https://api.whatsapp.com/send?phone=543517725033&text=Hola%20me%20interesa%20obtener%20mas%20información%20sobre%20como%20recuperar%20mi%20dinero%20de%20percepciones">Contactanos al WhatsApp ahora</a>
             </div>
             <h2>Beneficios</h2>
             <div class="container-ul">
@@ -91,7 +91,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
         <div class="container-a">
-                <a href="https://api.whatsapp.com/send?phone=543517725033&text=Hola%20me%20interesa%20obtener%20mas%20información%20sobre%20como%20recuperar%20mi%20dinero%20de%20percepciones">Contactanos al WhatsApp</a>
+                <a href="https://api.whatsapp.com/send?phone=543517725033&text=Hola%20me%20interesa%20obtener%20mas%20información%20sobre%20como%20recuperar%20mi%20dinero%20de%20percepciones">Contactanos al WhatsApp ahora</a>
         </div>
     </section>
     <section class="work">
@@ -123,7 +123,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <p class="p-importante">Te decimos cuanto te debe la AFIP sin ningún costo.</p>
         <div class="container-a">
-                <a href="https://api.whatsapp.com/send?phone=543517725033&text=Hola%20me%20interesa%20obtener%20mas%20información%20sobre%20como%20recuperar%20mi%20dinero%20de%20percepciones">Contactanos al WhatsApp</a>
+                <a href="https://api.whatsapp.com/send?phone=543517725033&text=Hola%20me%20interesa%20obtener%20mas%20información%20sobre%20como%20recuperar%20mi%20dinero%20de%20percepciones">Contactanos al WhatsApp ahora</a>
         </div>
     </section>
     <section>
