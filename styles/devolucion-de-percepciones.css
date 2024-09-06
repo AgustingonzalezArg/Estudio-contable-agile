@@ -100,6 +100,9 @@ p {
     padding: 1.2rem 2.7rem;
     font-size: 1.32rem;
     text-align: center;
+    display: inline-flex; 
+    justify-content: center; 
+    align-items: center;
     font-weight: 700;
     color: var(--white-bold);
     background-color: var(--green-wsp);
