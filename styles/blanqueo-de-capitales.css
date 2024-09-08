@@ -56,8 +56,10 @@ p {
 /* Default View */
 
 .default-view {
-    background-image: linear-gradient(var(--transparent-black-2), var(--transparent-black-2)), url(../assets/imgs/devolucion-impuesto-pais.webp);;
-    background-clip: padding-box; 
+    background-image: linear-gradient(var(--transparent-black-2), var(--transparent-black-2)), url(../assets/imgs/gestion-devolucion-impuesto-pais.webp);;
+    background-size: cover;
+    background-position: center center;
+
 }
 
 .default-view p {
@@ -118,6 +120,17 @@ p {
     background-color: var(--blue);
 }
 
+.container-benefit {
+    flex-grow: 1;
+}
+
+.container-default-view {
+    display: flex;
+    flex-direction: row;
+    gap: 3.5rem;
+    flex-wrap:wrap;
+}
+
 @media (min-width: 769px) {
     .default-view p {
         margin: 1.5rem 22.5%;
@@ -128,9 +141,10 @@ p {
     .container-ul {
         display: flex;
         align-items: start;
-        justify-content: start;
-        margin: 0 30%;
+        justify-content: center;
+        margin: 1rem;
     }
+
 }
 
 /* Form */
@@ -141,14 +155,125 @@ p {
     font-size: 1rem;
 }
 
+.container-form {
+    flex-grow: 1;
+}
+
+.container-form h3 {
+    color: var(--white);
+}
+
+.container-form input[type=submit] {
+    margin: 10px auto;
+    max-width: 150px;
+    display:block;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--dark-blue);
+}
+
 /* Social Prof */
+
+.social-prof {
+    background: var(--white-bold)
+}
 
 .social-prof h2, .work h2 {
     color: var(--dark-blue);
 }
 
 .clientes {
-    margin-top: 6rem;
+    padding-top: 6rem;
+}
+
+/* Cards */
+
+.our-process {
+    background: var(--white-bold);
+}
+
+.our-process h2 {
+    color: var(--dark-blue);
+    font-size: 2rem;
+    font-weight: 800;
+    margin: 0;
+    padding: 1.5rem .5rem;
+}
+
+.card {
+  width: 300px;
+  height: 200px;
+  perspective: 1000px; /* Crea un espacio 3D para la rotación */
+}
+
+/* Parte interior de la tarjeta */
+
+.container-card {
+    display: flex;
+    gap: 2.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 18rem;
+    height: 13rem;
+}
+
+.card-inner {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform-style: preserve-3d; /* Permite la rotación 3D */
+  transition: transform 0.6s; /* Efecto suave de rotación */
+}
+
+/* Efecto hover para rotar la tarjeta */
+.card:hover .card-inner {
+  transform: rotateY(180deg); /* Gira la tarjeta al pasar el mouse */
+}
+
+/* Parte frontal de la tarjeta */
+.card-front, .card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden; /* Oculta la parte posterior cuando no está visible */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 1px 1px 10px var(--transparent-black-2);
+}
+
+/* Estilo para la parte frontal */
+.card-front {
+  background: linear-gradient(var(--dark-blue), var(--blue))
+}
+
+.card-front p {
+    position: absolute;
+    top: 8px;
+    left: 12px;
+    font-size: 1.7rem;
+}
+
+.card-front h3 {
+    color: var(--white);
+}
+
+/* Estilo para la parte posterior */
+.card-back {
+  background-color: var(--dark-blue);
+  transform: rotateY(180deg); 
+}
+
+.card-back p {
+    font-size: 1rem;
 }
 
 /* Estilos generales */
