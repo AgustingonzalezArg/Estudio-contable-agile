@@ -149,13 +149,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="faq-item">
                 <div class="faq-question"><h3>¿Qué es una cuenta CERA?</h3></div>
                 <div class="faq-answer"> 
-                    <p>A completar</p>
+                    <p>Esta cuenta se utilizará para acreditar el monto proveniente de tenencias en moneda nacional o extranjera, en el país o en el exterior, que el titular declare voluntariamente ante la AFIP y que se hayan encontrado en su poder al 31 de diciembre de 2023</p>
                 </div>
             </div>
             <div class="faq-item">
                 <div class="faq-question"><h3>¿Tengo que pagar algo por blanquear mi dinero?</h3></div>
                 <div class="faq-answer"> 
-                    <p>A completar</p>
+                    <p>Etapa 1: hasta el 30 de septiembre de 2024, se abona una alícuota del 5% sobre el excedente de US$ 100 mil.</p>
+                    <p>Etapa 2: hasta el 31 de diciembre de 2024, la alícuota es del 10%.</p>
+                    <p>Etapa 3: hasta el 31 de marzo de 2025, la alícuota asciende al 15%.</p>
                 </div>
             </div>
         </div>
