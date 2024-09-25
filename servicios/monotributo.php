@@ -136,81 +136,69 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <tbody>
                             <tr>
                                 <td>A</td>
-                                <td>$ 2.108.288,01</td>
-                                <td>$ 12.128,39</td>
-                                <td>$ 12.128,39</td>
-                            </tr>
-                            <tr>
-                                <td>A exento (****)</td>
-                                <td>$ 2.108.288,01</td>
-                                <td>-</td>
-                                <td>$ 11.080,53</td>
+                                <td>$ 6.450.000</td>
+                                <td>$ 26.600,00</td>
+                                <td>$ 26.600,00</td>
                             </tr>
                             <tr>
                                 <td>B</td>
-                                <td>$ 3.133.941,63</td>
-                                <td>$ 13.561,75</td>
-                                <td>$ 13.561,75</td>
-                            </tr>
-                            <tr>
-                                <td>B exento (****)</td>
-                                <td>$ 3.133.941,63</td>
-                                <td>-</td>
-                                <td>$ 11.542,86</td>
+                                <td>$ 9.450.000</td>
+                                <td>$ 30.280,00</td>
+                                <td>$ 30.280,00</td>
                             </tr>
                             <tr>
                                 <td>C</td>
-                                <td>$ 4.387.518,23</td>
-                                <td>$ 15.503,51</td>
-                                <td>$ 15.503,51</td>
+                                <td>$ 13.250.000</td>
+                                <td>$ 35.458,00</td>
+                                <td>$ 34.658,00</td>
                             </tr>
                             <tr>
                                 <td>D</td>
-                                <td>$ 5.449.094,55</td>
-                                <td>$ 19.497,94</td>
-                                <td>$ 19.497,94</td>
+                                <td>$ 16.450.000</td>
+                                <td>$ 45.443,80</td>
+                                <td>$ 44.343,80</td>
                             </tr>
                             <tr>
                                 <td>E</td>
-                                <td>$ 6.416.528,72</td>
-                                <td>$ 26.945,97</td>
-                                <td>$ 24.526,43</td>
+                                <td>$ 19.350.000</td>
+                                <td>$ 64.348,18</td>
+                                <td>$ 58.148,18</td>
                             </tr>
                             <tr>
                                 <td>F</td>
-                                <td>$ 8.020.660,9</td>
-                                <td>$ 33.137,61</td>
-                                <td>$ 29.223,11</td>
+                                <td>$ 24.250.000</td>
+                                <td>$ 80.983,00</td>
+                                <td>$ 69.783,00</td>
                             </tr>
                             <tr>
                                 <td>G</td>
-                                <td>$ 9.624.793,05</td>
-                                <td>$ 38.694,95</td>
-                                <td>$ 33.439,61</td>
+                                <td>$ 29.000.000</td>
+                                <td>$ 123.696,20</td>
+                                <td>$ 85.296,20</td>
                             </tr>
                             <tr>
                                 <td>H</td>
-                                <td>$ 11.916.410,45</td>
-                                <td>$ 66.111,51</td>
-                                <td>$ 56.402,68</td>
+                                <td>$ 44.000.000</td>
+                                <td>$ 280.734,68</td>
+                                <td>$ 170.734,68</td>
                             </tr>
                             <tr>
                                 <td>I</td>
-                                <td>$ 13.337.213,22</td>
-                                <td>-</td>
-                                <td>$ 81.121,96</td>
+                                <td>$ 49.250.000</td>
+                                <td>$ 517.608,55</td>
+                                <td>$ 255.108,55</td>
                             </tr>
                             <tr>
                                 <td>J</td>
-                                <td>$ 15.285.088,04</td>
-                                <td>-</td>
-                                <td>$ 93.619,47</td>
+                                <td>$ 56.400.000</td>
+                                <td>$ 626.931,97</td>
+                                <td>$ 311.931,97</td>
                             </tr>
                             <tr>
                                 <td>K</td>
-                                <td>$ 16.957.968,71</td>
-                                <td>-</td>
-                                <td>$ 106.964,65</td>
+                                <td>$ 68.000.000</td>
+                                <td>$ 867.084,76</td>
+                                <td>$ 377.084,76</td>
                             </tr>
                         </tbody>
                     </table>
@@ -228,19 +216,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </article>
             <article class="faqs">
                 <h3>¿Cuáles son las categorías del monotributo?</h3>
-                <p>Las categorias del monotributo a julio 2024</p>
+                <p>Las categorias del monotributo a septiembre 2024</p>
                 <ul>
-                    <li>Categoría A: $2.108.288,01</li>
-                    <li>Categoría B: $3.133.941,63</li>
-                    <li>Categoría C: $4.387.518,23</li>
-                    <li>Categoría D: $5.449.094,55</li>
-                    <li>Categoría E: $6.416.528,72</li>
-                    <li>Categoría F: $8.020.660,9</li>
-                    <li>Categoría G: $9.624.793,05</li>
-                    <li>Categoría H: $11.916.410,45</li>
-                    <li>Categoría I: $13.337.213,22</li>
-                    <li>Categoría J: $15.285.088,04</li>
-                    <li>Categoría K: $16.957.968,71</li>
+                    <li>Categoría A: $6.450.000</li>
+                    <li>Categoría B: $9.450.000</li>
+                    <li>Categoría C: $13.250.000</li>
+                    <li>Categoría D: $16.450.000</li>
+                    <li>Categoría E: $19.350.000</li>
+                    <li>Categoría F: $24.250.000</li>
+                    <li>Categoría G: $29.000.000</li>
+                    <li>Categoría H: $44.000.000</li>
+                    <li>Categoría I: $49.250.000</li>
+                    <li>Categoría J: $56.400.000</li>
+                    <li>Categoría K: $68.000.000</li>
                 </ul>
             </article>
             <article class="faqs">
@@ -257,7 +245,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </a>
                 </article>
                 <article>
-                        <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
+                        <a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">
                             <h3>GESTIÓN DEVOLUCIÓN IMPUESTO PAIS</h3>
                         </a>
                 </article>

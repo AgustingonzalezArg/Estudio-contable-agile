@@ -45,9 +45,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
         <section class="section-2">
             <h2>¿Que incluye una gestion de monotributo?</h2>
-            <p>La gestion de monotributo incluye varios servicios, aquí hay una tabla comparativa para que puedas ver los servicios que deberian incluir.</p>
-
-            //table
+            <p>La gestión de Monotributo es un servicio que facilita el cumplimiento de las obligaciones fiscales para pequeños contribuyentes. Esto implica el seguimiento y pago mensual de las obligaciones, la recategorización semestral, el control de facturación para no exceder los límites de categoría, y la presentación de la información requerida ante la AFIP.</p>    
         </section>
 
         <section class="section-informational">
@@ -84,7 +82,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </article>
                 <article>
-                    <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
+                    <a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">
                         <img src="../../assets/imgs/creacion-sas.webp" alt="Creación de SAS - Sociedad por acciones Simplificadas">
                         <h3>Devolución impuesto pais</h3>
                     </a>
@@ -121,7 +119,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </article>
                 <article>
-                    <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
+                    <a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">
                         <h3>GESTIÓN DEVOLUCIÓN IMPUESTO PAIS</h3>
                     </a>
                 </article>

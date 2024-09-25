@@ -87,7 +87,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </article>
                 <article>
-                    <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
+                    <a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">
                         <img src="../../assets/imgs/creacion-sas.webp" alt="Creación de SAS - Sociedad por acciones Simplificadas">
                         <h3>Devolución impuesto pais</h3>
                     </a>
@@ -114,7 +114,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </article>
                 <article>
-                    <a href="<?php echo $base_url; ?>/servicios/empleadas-domesticas.php">
+                    <a href="<?php echo $base_url; ?>/servicios/empleada-domestica.php">
                         <h3>SERVICIOS EMP. DOMESTICAS</h3>
                     </a>
                 </article>
@@ -124,7 +124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </article>
                 <article>
-                    <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
+                    <a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">
                         <h3>GESTIÓN DEVOLUCIÓN IMPUESTO PAIS</h3>
                     </a>
                 </article>

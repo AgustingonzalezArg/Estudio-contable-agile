@@ -69,7 +69,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </a>
                 </article>
                 <article>
-                        <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
+                        <a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">
                             <img src="../assets/imgs/devolucion-impuesto-pais.webp" alt="Gestion de devolucion impuesto país">
                             <h3>Devolución impuesto pais</h3>
                         </a>
@@ -112,7 +112,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </article>
                 <article>
-                    <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
+                    <a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">
                         <h3>GESTIÓN DEVOLUCIÓN IMPUESTO PAIS</h3>
                     </a>
                 </article>

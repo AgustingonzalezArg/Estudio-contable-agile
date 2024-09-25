@@ -35,8 +35,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <?php include '../../includes/logo.php'?>
     </header>
     <main>
-        <h1>Alta Monotributo: Tramite sencillo, en menos de 48hs</h1>
         <section class="section-1">
+            <h1>Alta Monotributo: Tramite sencillo, en menos de 48hs</h1>
             <p>
             El monotributo es un régimen para pequeños contribuyentes, que unifica el pago de IVA y Ganancias con los aportes jubilatorios y la obra social. De esta manera, se paga solamente una cuota mensual y agiliza el cumplimiento de las obligaciones tributarias.
             </p>
@@ -151,7 +151,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </article>
                 <article>
-                    <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
+                    <a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">
                         <img src="../../assets/imgs/creacion-sas.webp" alt="Creación de SAS - Sociedad por acciones Simplificadas">
                         <h3>Devolución impuesto pais</h3>
                     </a>
@@ -188,7 +188,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </article>
                 <article>
-                    <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
+                    <a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">
                         <h3>GESTIÓN DEVOLUCIÓN IMPUESTO PAIS</h3>
                     </a>
                 </article>

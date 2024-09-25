@@ -81,7 +81,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div>
                 <article>
                     <a href="<?php echo $base_url; ?>/servicios/liquidacion-suledos.php">
-                        <img src="../assets/imgs/recategorizacion-monotributo.webp" alt="Recategorizacion de monotributo">
+                        <img src="../assets/imgs/recategorizacion-monotributo.webp" alt="Liquidacion de sueldos">
                         <h3>Liquidación de Sueldos</h3>
                     </a>
                 </article>
@@ -98,20 +98,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </article>
                 <article>
-                    <a href="<?php echo $base_url; ?>/servicios/responsable-inscripto/ganancias.php">
+                    <a href="<?php echo $base_url; ?>/proximamente.php">
                         <img src="../assets/imgs/gestion-monotributo.webp" alt="Gestión del monotributo mensual">
                         <h3>Ganancias</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="<?php echo $base_url; ?>/servicios/responsable-inscripto/bienes-personales.php">
-                        <img src="../assets/imgs/apreton_manos.webp" alt="BIenes">
+                    <a href="<?php echo $base_url; ?>/servicios/bienes-personales.php">
+                        <img src="../assets/imgs/apreton_manos.webp" alt="Bienes Personales">
                         <h3>Bienes Personales</h3>
                     </a>
                 </article>
                 <article>
                     <a href="<?php echo $base_url; ?>/servicios/responsable-inscripto/gestion.php">
-                        <img src="../assets/imgs/PedidosYa.webp" alt="Alta y gestion de PedidosYA - Uber - rappi">
+                        <img src="../assets/imgs/alta-monotributo.webp" alt="Gestion responsable inscripto">
                         <h3>Gestión mensual Responsable Inscripto</h3>
                     </a>
                 </article>
@@ -142,7 +142,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h2>Tipos de Responsables Inscriptos</h2>
             <div>
                 <article>
-                        <a href="<?php echo $base_url; ?>/servicios/responsable-inscripto/persona-fisica.php">
+                        <a href="<?php echo $base_url; ?>/proximamente.php">
                             <h3>Persona Fisica: Unipersonal</h3>
                         </a>
                 </article>
@@ -157,7 +157,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </a>
                 </article>
                 <article>
-                        <a href="<?php echo $base_url; ?>/servicios/responsable-inscripto/sa.php">
+                        <a href="<?php echo $base_url; ?>/proximamente.php">
                             <h3>Sociedades: S.A</h3>
                         </a>
                 </article>
@@ -179,12 +179,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </a>
                 </article>
                 <article>
-                        <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
+                        <a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">
                             <h3>GESTIÓN DEVOLUCIÓN IMPUESTO PAIS</h3>
                         </a>
                 </article>
                 <article>
-                        <a href="<?php echo $base_url; ?>/servicios/empleadas-domesticas.php">
+                        <a href="<?php echo $base_url; ?>/servicios/empleada-domestica.php">
                             <h3>EMPLEADAS DOMESTICAS
                             </h3>
                         </a>

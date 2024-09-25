@@ -124,7 +124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <li>Liquidación de sueldo</li>
                         <li>Generación del volante electrónico de pago(VEP)</li>
                     </ul>
-                    <a href="<?php echo $base_url; ?>/servicios/empleadas-domesticas.php">Más sobre domesticas</a>
+                    <a href="<?php echo $base_url; ?>/servicios/empleada-domestica.php">Más sobre domesticas</a>
                 </article>
             </div>
             <p>En nuestro despacho ofrecemos gestiones contables de forma mensual, anual o esporádica, dependiendo las necesidades de usted, nuestros clientes y las empresas.</p>
@@ -279,7 +279,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <h3>Devolución Impuesto País</h3>
                     <p>Gestionamos la devolución del impuesto pais (impuestos a pagos en dolares con tarjeta)</p>
-                    <div class="container-a"><a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">SABER MÁS SOBRE IMPUESTO PAIS</a></div>
+                    <div class="container-a"><a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">SABER MÁS SOBRE IMPUESTO PAIS</a></div>
                 </article>
                 <article>
                     <div class="other-services__container-img">

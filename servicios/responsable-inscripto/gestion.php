@@ -45,9 +45,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
         <section class="section-2">
             <h2>¿Que incluye una gestion para responsables inscriptos?</h2>
-            <p>La gestion para responsables incriptos incluye varios servicios, aquí hay una tabla comparativa para que puedas ver los servicios que deberian incluir.</p>
-
-            //table
+            <p>
+            La gestión de Responsables Inscriptos es un servicio diseñado para asistir a empresas y autónomos en el cumplimiento de sus obligaciones fiscales ante la AFIP. Nosotros por nuestro lado ayudamos a simplificar el proceso, asegurando que se cumplan todos los plazos y normativas, permitiendo que nuestros clientes se enfoquen en el crecimiento de su negocio.</p>
         </section>
 
         <section class="section-informational">
@@ -95,7 +94,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </article>
                 <article>
-                    <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
+                    <a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">
                         <img src="../../assets/imgs/creacion-sas.webp" alt="Creación de SAS - Sociedad por acciones Simplificadas">
                         <h3>Devolución impuesto pais</h3>
                     </a>
@@ -132,7 +131,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </a>
                 </article>
                 <article>
-                    <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
+                    <a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">
                         <h3>GESTIÓN DEVOLUCIÓN IMPUESTO PAIS</h3>
                     </a>
                 </article>

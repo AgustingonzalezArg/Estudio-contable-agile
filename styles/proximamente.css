@@ -1,0 +1,22 @@
+body {
+    background-color: var(--light-grey);
+}
+
+main {
+    padding: 35px 0;
+}
+
+h1 {
+    color: var(--black);
+    text-align: center;
+    padding:  7px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: var(--dark-blue);
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 10px;
+    color: var(--white);
+}

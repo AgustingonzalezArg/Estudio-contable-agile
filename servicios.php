@@ -81,42 +81,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <h2>Servicios</h2>
             <div>
                 <article>
-                    <a href="./servicios/monotributo.php">
+                    <a href="<?php echo $base_url; ?>/servicios/monotributo.php">
                         <h3>MONOTRIBUTO</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="<?php echo $base_url; ?>/servicios/responsable-inscripto.php">
                         <h3>RESPONSABLES INSCRIPTOS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="<?php echo $base_url; ?>/servicios/liquidacion-sueldos.php">
                         <h3>LIQUIDACIÓN DE SUELDOS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="<?php echo $base_url; ?>/servicios/empleada-domestica.php">
                         <h3>SERVICIOS EMP. DOMESTICAS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="<?php echo $base_url; ?>/servicios/bienes-personales.php">
                         <h3>BIENES PERSONALES</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="<?php echo $base_url; ?>/servicios/devolucion-impuesto-pais.php">
+                    <a href="<?php echo $base_url; ?>/Devolucion-de-percepciones.php">
                         <h3>GESTIÓN DEVOLUCIÓN IMPUESTO PAIS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="<?php echo $base_url; ?>/proximamente.php">
                         <h3>DECLARACIÓN DE GANANCIAS</h3>
                     </a>
                 </article>
                 <article>
-                    <a href="">
+                    <a href="<?php echo $base_url; ?>/servicios/monotributo/convenio-multilateral.php">
                         <h3>CONVENIO MULTILATERAL</h3>
                     </a>
                 </article>
@@ -156,7 +156,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <p><strong>4to Experiencia:</strong> Este punto lo considero correcto, pero no con la relevancia de los otros ya que alguien con menos años de experiencia puede brindar un servicio estupendo gracias a modelo de gestión y sus herramientas, pero si es un punto a considerar ya que este rubro tiene una curva de aprendizaje y no estaría bueno caer en manos de alguien que todavía no paso por esa curva. Es por esto que nosotros contamos tanto con las herramientas como con la experiencia.</p>
             </article>
             <div class="TSG-informational__container-a">
-                <a href="">Contactarnos Ahora</a>
+                <a href="https://api.whatsapp.com/send?phone=543517725033&text=Hola%20me%20interesa%20obtener%20mas%20información%20sobre...">Contactarnos Ahora</a>
             </div>
         </section>
         <section class="FAQ">
